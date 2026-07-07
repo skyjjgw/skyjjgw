@@ -23,7 +23,7 @@ I am an undergraduate student majoring in Software Engineering, focusing on LLM 
 <a href="mailto:3975342268@qq.com" target="_blank">
     <img alt="QQ邮箱" src="https://img.shields.io/badge/QQ-3975342268@qq.com-blue?style=flat-square&logo=tencentqq&logoColor=white">
 </a>
----
+
 
 ### 📌 Personal Projects 个人项目
 - 🤖 LLM Agent Workbench
