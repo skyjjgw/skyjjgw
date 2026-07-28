@@ -8,11 +8,6 @@ My current projects focus on **Python backend development, RAG systems, LLM appl
 
 My long-term goal is to combine reliable backend architecture with LLM capabilities and build practical, maintainable AI applications.
 
-软件工程专业在读本科生，专注于 **后端开发与大模型应用工程**。
-
-目前主要使用 Python、FastAPI、LangChain 和 LangGraph 开发 RAG、AI Agent 与智能文档处理应用，同时持续学习 Java，并逐步向 Spring Boot 后端开发方向拓展。
-
-希望将传统后端工程能力与大模型、智能体技术结合，构建真正能够落地、稳定运行且易于维护的 AI 应用。
 
 ---
 
