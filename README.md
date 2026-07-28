@@ -78,15 +78,6 @@ An LLM-powered document translation and reconstruction pipeline.
 
 `Python` `LangChain` `DeepSeek` `OpenAI API` `SQLite` `PDF Processing`
 
----
-
-### 🗒️ [QuickNotes](https://github.com/skyjjgw/QuickNotes)
-
-A lightweight cross-platform desktop note-taking application with Markdown support.
-
-使用 Electron 开发的轻量级跨平台桌面笔记应用，支持 Markdown、悬浮窗口与快捷键操作。
-
-`Electron` `JavaScript` `HTML` `CSS` `npm`
 
 ---
 
