@@ -1,65 +1,153 @@
 # Hi there 👋, I'm SKYJJGW
 
-I'm an undergraduate Software Engineering student focused on **LLM application development**, **AI agent engineering**, and **LLM testing & evaluation**.
+### Backend & AI Application Developer in Progress
 
-I enjoy building practical AI applications with **LangChain** and **LangGraph**, exploring modern AI coding workflows, and sharing reusable scripts and code snippets through GitHub Gists.
+I'm an undergraduate Software Engineering student interested in building **AI-powered backend systems**.
 
-软件工程专业在读本科生，专注于**大模型应用开发、AI Agent 工程及大模型测试评估**。热衷于探索智能体工作流与 AI 辅助开发，并将实践过程中积累的脚本和代码片段整理至 GitHub Gists。
+My current projects focus on **Python backend development, RAG systems, LLM applications, and AI Agent workflows**. Meanwhile, I'm systematically strengthening my **Java fundamentals** and moving toward **Spring Boot backend engineering**.
 
-- 🧩 **Daily stack:** Python, FastAPI, TypeScript, Vue, Next.js, LangChain, LangGraph
-- 🤖 **AI coding tools:** Codex, Claude Code, Trae, Qoder
-- 📝 **Writing:** Sharing backend and LLM development experience on Nowcoder
-- 🚀 **Interests:** LLM applications, AI agents, harness engineering, testing & evaluation
-- 🛠️ **Building:** Practical scripts and developer tools for improving daily productivity
+My long-term goal is to combine reliable backend architecture with LLM capabilities and build practical, maintainable AI applications.
+
+软件工程专业在读本科生，专注于 **后端开发与大模型应用工程**。
+
+目前主要使用 Python、FastAPI、LangChain 和 LangGraph 开发 RAG、AI Agent 与智能文档处理应用，同时持续学习 Java，并逐步向 Spring Boot 后端开发方向拓展。
+
+希望将传统后端工程能力与大模型、智能体技术结合，构建真正能够落地、稳定运行且易于维护的 AI 应用。
 
 ---
 
-## 📌 Featured Projects · 个人项目
+## 🎯 About Me
 
-### 🤖 LLM Agent Workbench
+- 🔭 Currently building **LLM applications, RAG systems, and Agent workflows**
+- 🌱 Learning **Java backend development and the Spring ecosystem**
+- 🐍 Working with **Python, FastAPI, LangChain, and LangGraph**
+- 🧠 Exploring **Agent memory, tool calling, workflow orchestration, evaluation, and harness engineering**
+- 🏗️ Interested in combining **Java/Python backend services with AI capabilities**
+- 📝 Recording my learning process and project experiments in [AI Practice Log](https://github.com/skyjjgw/AI-practice-log)
+- ⚡ Using AI coding tools such as Codex, Claude Code, Trae, and Qoder
 
-A multi-agent orchestration workbench built with LangChain and LangGraph.
+---
 
-基于 LangChain 与 LangGraph 构建的多智能体调度工作台，用于探索 Agent 编排与协作流程。
+## 🚀 Featured Projects
 
-### 📦 Vue Management Dashboard
+### 👁️ [OmniVision · 视桥智导](https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users)
 
-A lightweight business management dashboard built with Vue and a Python backend.
+An edge-cloud collaborative assistive navigation system for visually impaired users.
 
-基于 Vue 与 Python 后端构建的轻量级业务管理系统。
+面向视障辅助场景的端云协同系统，由云端服务、树莓派盲人端和 Flutter 志愿者端组成。
 
-### 📋 Developer Toolkit & Gists
+- FastAPI cloud services and management dashboard
+- Edge-side visual perception and offline safety prompts
+- WebSocket / WebRTC real-time collaboration
+- Flutter volunteer application
+- Docker-based deployment
 
-A growing collection of automation scripts, AI API examples, and reusable development utilities.
+`Python` `FastAPI` `Flutter` `Raspberry Pi` `WebSocket` `WebRTC` `Docker`
 
-持续整理日常自动化脚本、AI API 调用示例及可复用的开发工具。
+---
+
+### 🧠 [Enterprise RAG Knowledge Base](https://github.com/skyjjgw/enterprise-rag-knowledge-base)
+
+An enterprise-oriented intelligent knowledge-base question-answering system.
+
+面向企业知识库、内部文档及售后问答场景构建的 RAG 应用，覆盖从文档解析到检索、重排和回答生成的完整流程。
+
+- Dense, sparse, and hybrid retrieval with Elasticsearch
+- Query rewriting, retrieval routing, and result reflection
+- LangGraph-based multi-step workflow
+- OCR and VLM document parsing
+- Dify Workflow integration
+- Local offline smoke testing
+
+`Python` `LangGraph` `Elasticsearch` `RAG` `OCR` `VLM` `Dify`
+
+---
+
+### 📚 [BookTranslator](https://github.com/skyjjgw/BookTranslator)
+
+An LLM-powered document translation and reconstruction pipeline.
+
+基于大模型的文档翻译与重构工具，支持 PDF 文本和表格提取、模型切换、翻译记忆及断点恢复。
+
+- PDF text and table extraction
+- DeepSeek and OpenAI model support
+- Content-aware translation routing
+- Translation memory and terminology reuse
+- Checkpoint-based recovery
+- PDF and Markdown export
+
+`Python` `LangChain` `DeepSeek` `OpenAI API` `SQLite` `PDF Processing`
+
+---
+
+### 🗒️ [QuickNotes](https://github.com/skyjjgw/QuickNotes)
+
+A lightweight cross-platform desktop note-taking application with Markdown support.
+
+使用 Electron 开发的轻量级跨平台桌面笔记应用，支持 Markdown、悬浮窗口与快捷键操作。
+
+`Electron` `JavaScript` `HTML` `CSS` `npm`
+
+---
+
+### 🧪 [AI Practice Log](https://github.com/skyjjgw/AI-practice-log)
+
+A continuously updated logbook for AI practice, Java learning, Git workflows, and project reflections.
+
+记录 AI 实践、Java 学习、Git 协作流程与阶段性项目总结，持续沉淀个人学习轨迹。
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Backend & Programming
+
 <div align="left">
-
-<!-- Backend & Frontend -->
-<img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white">
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.111+-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-14+-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
-
-<br>
-
-<!-- LLM & Agent Engineering -->
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agent%20Workflow-0284C7?style=flat-square&logo=langchain&logoColor=white">
-
-<br>
-
-<!-- AI Development Tools -->
-<img alt="Codex" src="https://img.shields.io/badge/Codex-OpenAI-000000?style=flat-square&logo=openai&logoColor=white">
-<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white">
-<img alt="Trae" src="https://img.shields.io/badge/Trae-AI%20IDE-0094FF?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img alt="Qoder" src="https://img.shields.io/badge/Qoder-AI%20Coding-222222?style=flat-square&logo=codeium&logoColor=white">
-
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 </div>
+
+### LLM & Agent Engineering
+
+<div align="left">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agent%20Workflow-0284C7?style=flat-square&logo=langchain&logoColor=white">
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-Knowledge%20Retrieval-7C3AED?style=flat-square">
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+  <img alt="Dify" src="https://img.shields.io/badge/Dify-AI%20Workflow-155EEF?style=flat-square">
+</div>
+
+### Frontend & Engineering Tools
+
+<div align="left">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+```text
+Backend Engineering
+├── Java fundamentals
+├── Spring Boot
+├── RESTful API design
+├── Database and caching
+└── Backend service engineering
+
+AI Application Engineering
+├── Python and FastAPI
+├── RAG and knowledge bases
+├── LangChain and LangGraph
+├── Agent memory and tool calling
+├── Agent evaluation and harness engineering
+└── Production-ready AI services
+
+Target
+└── Java/Python Backend + AI Agents
