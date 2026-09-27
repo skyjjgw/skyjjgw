@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-cover.svg" alt="SKYJJGW — Build useful things. AI applications, backend systems, everyday tools." width="100%" />
+  <a href="https://skyjjgw.com"><img src="./assets/personal-site.png" alt="skyjjgw.com 个人网站：把代码写进日常，把好奇留给星夜。点击访问。" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://skyjjgw.com">个人网站 skyjjgw.com ↗</a> ·
   <a href="#正在探索">正在探索</a> ·
   <a href="#项目陈列室">项目陈列室</a> ·
   <a href="#我的工作方式">我的工作方式</a> ·
@@ -16,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="https://skyjjgw.com"><img alt="Website: skyjjgw.com" src="https://img.shields.io/badge/Website-skyjjgw.com-C9AA58?style=flat-square" /></a>
   <a href="mailto:skyjjgw@gmail.com"><img alt="Email: skyjjgw@gmail.com" src="https://img.shields.io/badge/Email-skyjjgw%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw"><img alt="GitHub · skyjjgw" src="https://img.shields.io/badge/GitHub-skyjjgw-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw/AI-practice-log"><img alt="学习日志" src="https://img.shields.io/badge/Build%20Log-AI%20Practice-668A43?style=flat-square" /></a>
