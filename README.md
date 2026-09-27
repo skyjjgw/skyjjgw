@@ -11,7 +11,13 @@
   <a href="#正在探索">正在探索</a> ·
   <a href="#项目陈列室">项目陈列室</a> ·
   <a href="#我的工作方式">我的工作方式</a> ·
+  <a href="#技术栈与工具">技术栈</a> ·
   <a href="https://github.com/skyjjgw/AI-practice-log">学习日志 ↗</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/skyjjgw"><img alt="GitHub · skyjjgw" src="https://img.shields.io/badge/GitHub-skyjjgw-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://github.com/skyjjgw/AI-practice-log"><img alt="学习日志" src="https://img.shields.io/badge/Build%20Log-AI%20Practice-668A43?style=flat-square" /></a>
 </p>
 
 ---
@@ -68,20 +74,47 @@
 
 我会使用 AI 编程工具协助开发，也在学习如何更清楚地描述需求、阅读代码和验证结果。这里既有完整些的项目，也有进行中的实验；项目说明会尽量写清楚当前能力和边界。
 
-<details>
-<summary><b>打开我的工具箱</b></summary>
+## 技术栈与工具
 
-<br />
+**后端与编程**
 
-| 用途 | 技术与工具 |
-| :--- | :--- |
-| 后端实践 | Python · FastAPI · SQLite · REST API |
-| AI 应用探索 | LangChain · LangGraph · RAG · Elasticsearch · OCR / VLM |
-| 界面与桌面工具 | Vue · Electron · TypeScript |
-| 工程与协作 | Git · Docker · AI 编程工具 |
-| 持续学习 | Java 基础 · Spring Boot · 后端服务工程 |
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-34495E?style=flat-square" />
+</p>
 
-</details>
+**AI 与 Agent**
+
+<p>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0284C7?style=flat-square" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="Dify" src="https://img.shields.io/badge/Dify-155EEF?style=flat-square" />
+  <img alt="OCR / VLM" src="https://img.shields.io/badge/OCR%20%2F%20VLM-6654E8?style=flat-square" />
+</p>
+
+**界面与工程**
+
+<p>
+  <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**正在学习**
+
+<p>
+  <img alt="Java · Learning" src="https://img.shields.io/badge/Java%20%C2%B7%20Learning-ED8B00?style=flat-square" />
+  <img alt="Spring Boot · Learning" src="https://img.shields.io/badge/Spring%20Boot%20%C2%B7%20Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+</p>
+
+这些标签代表目前使用或探索的工具；Java / Spring Boot 单独标注为学习中。
+
 
 ---
 
