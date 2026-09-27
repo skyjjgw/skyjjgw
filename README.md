@@ -29,29 +29,80 @@
 
 目前主要用 **Python / FastAPI** 实践后端和 AI 应用，也在系统补齐 **Java / Spring Boot**。比起只做一个演示，我更想把数据流、页面交互、失败恢复和部署这些环节接起来。
 
-<p><strong>01 / AI 应用</strong> &nbsp;·&nbsp; 文档如何被理解、检索，并转化为可核对的回答？</p>
-
-<p><strong>02 / 软件工具</strong> &nbsp;·&nbsp; 能不能把一个麻烦的操作，变成顺手的小工具？</p>
-
-<p><strong>03 / 自动化</strong> &nbsp;·&nbsp; 流程失败后，怎样知道停在哪里、从哪里继续？</p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="260" align="left">方向</th>
+      <th width="900" align="left">我关心的问题</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="260"><strong>01 / AI 应用</strong></td>
+      <td width="900">文档如何被理解、检索，并转化为可核对的回答？</td>
+    </tr>
+    <tr>
+      <td width="260"><strong>02 / 软件工具</strong></td>
+      <td width="900">能不能把一个麻烦的操作，变成顺手的小工具？</td>
+    </tr>
+    <tr>
+      <td width="260"><strong>03 / 自动化</strong></td>
+      <td width="900">流程失败后，怎样知道停在哪里、从哪里继续？</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 项目陈列室
 
 ### 让 AI 处理具体的问题
 
-<p><strong><a href="https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users">视障辅助导航</a></strong> &nbsp;·&nbsp; 探索云端服务、边缘视觉感知与志愿者端协同的辅助系统。</p>
-
-<p><strong><a href="https://github.com/skyjjgw/enterprise-rag-knowledge-base">Enterprise RAG</a></strong> &nbsp;·&nbsp; 围绕文档解析、混合检索和多步问答构建知识库应用。</p>
-
-<p><strong><a href="https://github.com/skyjjgw/BookTranslator">BookTranslator</a></strong> &nbsp;·&nbsp; 尝试把文档提取、模型翻译、术语复用和断点恢复连成流程。</p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="260" align="left">项目</th>
+      <th width="900" align="left">在做什么</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users">视障辅助导航</a></strong></td>
+      <td width="900">探索云端服务、边缘视觉感知与志愿者端协同的辅助系统。</td>
+    </tr>
+    <tr>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/enterprise-rag-knowledge-base">Enterprise RAG</a></strong></td>
+      <td width="900">围绕文档解析、混合检索和多步问答构建知识库应用。</td>
+    </tr>
+    <tr>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/BookTranslator">BookTranslator</a></strong></td>
+      <td width="900">尝试把文档提取、模型翻译、术语复用和断点恢复连成流程。</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 把日常操作做成工具
 
-<p><strong><a href="https://github.com/skyjjgw/drip-browser-source">Drip Browser</a></strong> &nbsp;·&nbsp; 基于 Electron 的 Windows 浏览器，探索标签页和桌面交互。</p>
-
-<p><strong><a href="https://github.com/skyjjgw/xmind-to-html">XMind → HTML</a></strong> &nbsp;·&nbsp; 将思维导图转换为可独立打开的交互式 HTML。</p>
-
-<p><strong><a href="https://github.com/skyjjgw/QuickNotes">QuickNotes</a></strong> &nbsp;·&nbsp; 支持 Markdown 与悬浮窗口的轻量桌面笔记工具。</p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="260" align="left">项目</th>
+      <th width="900" align="left">在做什么</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/drip-browser-source">Drip Browser</a></strong></td>
+      <td width="900">基于 Electron 的 Windows 浏览器，探索标签页和桌面交互。</td>
+    </tr>
+    <tr>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/xmind-to-html">XMind → HTML</a></strong></td>
+      <td width="900">将思维导图转换为可独立打开的交互式 HTML。</td>
+    </tr>
+    <tr>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/QuickNotes">QuickNotes</a></strong></td>
+      <td width="900">支持 Markdown 与悬浮窗口的轻量桌面笔记工具。</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 把重复经验沉淀下来
 
