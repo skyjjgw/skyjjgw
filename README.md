@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+  <a href="mailto:skyjjgw@gmail.com"><img alt="Email: skyjjgw@gmail.com" src="https://img.shields.io/badge/Email-skyjjgw%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw"><img alt="GitHub · skyjjgw" src="https://img.shields.io/badge/GitHub-skyjjgw-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw/AI-practice-log"><img alt="学习日志" src="https://img.shields.io/badge/Build%20Log-AI%20Practice-668A43?style=flat-square" /></a>
 </p>
@@ -28,80 +29,29 @@
 
 目前主要用 **Python / FastAPI** 实践后端和 AI 应用，也在系统补齐 **Java / Spring Boot**。比起只做一个演示，我更想把数据流、页面交互、失败恢复和部署这些环节接起来。
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="left">方向</th>
-      <th width="70%" align="left">我关心的问题</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="30%"><strong>01 / AI 应用</strong></td>
-      <td width="70%">文档如何被理解、检索，并转化为可核对的回答？</td>
-    </tr>
-    <tr>
-      <td width="30%"><strong>02 / 软件工具</strong></td>
-      <td width="70%">能不能把一个麻烦的操作，变成顺手的小工具？</td>
-    </tr>
-    <tr>
-      <td width="30%"><strong>03 / 自动化</strong></td>
-      <td width="70%">流程失败后，怎样知道停在哪里、从哪里继续？</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>01 / AI 应用</strong> &nbsp;·&nbsp; 文档如何被理解、检索，并转化为可核对的回答？</p>
+
+<p><strong>02 / 软件工具</strong> &nbsp;·&nbsp; 能不能把一个麻烦的操作，变成顺手的小工具？</p>
+
+<p><strong>03 / 自动化</strong> &nbsp;·&nbsp; 流程失败后，怎样知道停在哪里、从哪里继续？</p>
 
 ## 项目陈列室
 
 ### 让 AI 处理具体的问题
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="left">项目</th>
-      <th width="70%" align="left">在做什么</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="30%"><strong><a href="https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users">视障辅助导航</a></strong></td>
-      <td width="70%">探索云端服务、边缘视觉感知与志愿者端协同的辅助系统。</td>
-    </tr>
-    <tr>
-      <td width="30%"><strong><a href="https://github.com/skyjjgw/enterprise-rag-knowledge-base">Enterprise RAG</a></strong></td>
-      <td width="70%">围绕文档解析、混合检索和多步问答构建知识库应用。</td>
-    </tr>
-    <tr>
-      <td width="30%"><strong><a href="https://github.com/skyjjgw/BookTranslator">BookTranslator</a></strong></td>
-      <td width="70%">尝试把文档提取、模型翻译、术语复用和断点恢复连成流程。</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong><a href="https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users">视障辅助导航</a></strong> &nbsp;·&nbsp; 探索云端服务、边缘视觉感知与志愿者端协同的辅助系统。</p>
+
+<p><strong><a href="https://github.com/skyjjgw/enterprise-rag-knowledge-base">Enterprise RAG</a></strong> &nbsp;·&nbsp; 围绕文档解析、混合检索和多步问答构建知识库应用。</p>
+
+<p><strong><a href="https://github.com/skyjjgw/BookTranslator">BookTranslator</a></strong> &nbsp;·&nbsp; 尝试把文档提取、模型翻译、术语复用和断点恢复连成流程。</p>
 
 ### 把日常操作做成工具
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="left">项目</th>
-      <th width="70%" align="left">在做什么</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="30%"><strong><a href="https://github.com/skyjjgw/drip-browser-source">Drip Browser</a></strong></td>
-      <td width="70%">基于 Electron 的 Windows 浏览器，探索标签页和桌面交互。</td>
-    </tr>
-    <tr>
-      <td width="30%"><strong><a href="https://github.com/skyjjgw/xmind-to-html">XMind → HTML</a></strong></td>
-      <td width="70%">将思维导图转换为可独立打开的交互式 HTML。</td>
-    </tr>
-    <tr>
-      <td width="30%"><strong><a href="https://github.com/skyjjgw/QuickNotes">QuickNotes</a></strong></td>
-      <td width="70%">支持 Markdown 与悬浮窗口的轻量桌面笔记工具。</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong><a href="https://github.com/skyjjgw/drip-browser-source">Drip Browser</a></strong> &nbsp;·&nbsp; 基于 Electron 的 Windows 浏览器，探索标签页和桌面交互。</p>
+
+<p><strong><a href="https://github.com/skyjjgw/xmind-to-html">XMind → HTML</a></strong> &nbsp;·&nbsp; 将思维导图转换为可独立打开的交互式 HTML。</p>
+
+<p><strong><a href="https://github.com/skyjjgw/QuickNotes">QuickNotes</a></strong> &nbsp;·&nbsp; 支持 Markdown 与悬浮窗口的轻量桌面笔记工具。</p>
 
 ### 把重复经验沉淀下来
 
@@ -113,58 +63,33 @@
 
 ## 我的工作方式
 
-```text
-发现一个具体问题
-    ↓
-先做出能验证的最小版本
-    ↓
-接通数据、接口与交互
-    ↓
-检查异常、记录结果、继续迭代
-```
+**发现问题 → 做出最小版本 → 接通数据与交互 → 验证与迭代**
 
 我会使用 AI 编程工具协助开发，也在学习如何更清楚地描述需求、阅读代码和验证结果。这里既有完整些的项目，也有进行中的实验；项目说明会尽量写清楚当前能力和边界。
 
 ## 技术栈与工具
-
-**后端与编程**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-34495E?style=flat-square" />
-</p>
-
-**AI 与 Agent**
-
-<p>
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0284C7?style=flat-square" />
   <img alt="RAG" src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img alt="Dify" src="https://img.shields.io/badge/Dify-155EEF?style=flat-square" />
   <img alt="OCR / VLM" src="https://img.shields.io/badge/OCR%20%2F%20VLM-6654E8?style=flat-square" />
-</p>
-
-**界面与工程**
-
-<p>
   <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-**正在学习**
-
-<p>
   <img alt="Java · Learning" src="https://img.shields.io/badge/Java%20%C2%B7%20Learning-ED8B00?style=flat-square" />
   <img alt="Spring Boot · Learning" src="https://img.shields.io/badge/Spring%20Boot%20%C2%B7%20Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
-这些标签代表目前使用或探索的工具；Java / Spring Boot 单独标注为学习中。
+<sub>日常使用与学习中的工具；Java / Spring Boot 标注为 Learning。</sub>
 
 
 ---
