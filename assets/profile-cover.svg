@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">SKYJJGW — Build useful things.</title>
+<desc id="desc">Personal development lab for AI applications, backend systems and everyday tools.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#24332e" stroke-width="1"/></pattern><linearGradient id="fade"><stop stop-color="#c2f970"/><stop offset="1" stop-color="#76d8c4"/></linearGradient></defs>
+<rect width="1200" height="350" rx="20" fill="#101915"/>
+<rect x="700" width="500" height="350" fill="url(#grid)" opacity=".6"/>
+<path d="M0 2H1200" stroke="url(#fade)" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="55" y="55" font-size="14" letter-spacing="4" fill="#b0c4b9">SKYJJGW / PERSONAL DEV LAB</text>
+<text x="51" y="137" font-size="67" font-weight="700" letter-spacing="-2" fill="#f1f6ef">Build useful things.</text>
+<text x="55" y="185" font-size="21" fill="#b0c4b9">AI applications. Backend systems. Everyday tools.</text>
+<rect x="55" y="222" width="175" height="33" rx="16" fill="#c2f970"/>
+<text x="142" y="244" font-size="13" text-anchor="middle" font-weight="700" fill="#162018">LEARN BY BUILDING</text>
+<text x="55" y="313" font-size="12" letter-spacing="2" fill="#81968a">IDEA → PROTOTYPE → TEST → ITERATE</text>
+</g>
+<g transform="translate(855 88)">
+<rect x="-12" y="-10" width="245" height="160" rx="14" fill="#17241e" stroke="#3d5447" transform="rotate(-7 110 70)"/>
+<rect width="245" height="160" rx="14" fill="#1d2d24" stroke="#658653"/>
+<circle cx="20" cy="21" r="4" fill="#c2f970"/><circle cx="35" cy="21" r="4" fill="#76d8c4"/><circle cx="50" cy="21" r="4" fill="#658653"/>
+<path d="M0 40H245" stroke="#3d5447"/>
+<g fill="none" stroke-linecap="round" stroke-width="5"><path d="M60 67L35 93L60 119M180 67L205 93L180 119" stroke="#c2f970"/><path d="M132 60L108 125" stroke="#76d8c4"/></g>
+<text x="122" y="206" font-family="monospace" font-size="14" text-anchor="middle" fill="#b0c4b9">always a work in progress_</text>
+</g>
+</svg>
