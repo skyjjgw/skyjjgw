@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://skyjjgw.com"><img src="./assets/personal-site.png" alt="skyjjgw.com 个人网站：把代码写进日常，把好奇留给星夜。点击访问。" width="100%" /></a>
+  <a href="https://skyjjgw.com"><img src="./assets/starry-banner.svg" alt="提灯点亮星夜：停步点燃火炬，光点升向星星，整幅星夜随之亮起。点击访问 skyjjgw.com。" width="100%" /></a>
 </p>
 
 <p align="center">
-  <b>你好，我是 SKYJJGW。</b><br />
+  <img src="./assets/intro-typing.svg" width="560" alt="你好，我是 SKYJJGW。把想法做成可以使用的工具。" /><br />
   软件工程本科在读，把学习写进项目，把想法做成可以使用的工具。
 </p>
 
