@@ -1,126 +1,126 @@
 <p align="center">
-  <a href="https://skyjjgw.com"><img src="./assets/starry-banner.svg" alt="提灯点亮星夜：停步点燃火炬，光点升向星星，整幅星夜随之亮起。点击访问 skyjjgw.com。" width="100%" /></a>
+  <a href="https://skyjjgw.com"><img src="./assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/intro-typing.svg" width="560" alt="你好，我是 SKYJJGW。把想法做成可以使用的工具。" /><br />
-  软件工程本科在读，把学习写进项目，把想法做成可以使用的工具。
+  <img src="./assets/intro-typing.svg" width="560" alt="Hi, I'm SKYJJGW. Turning ideas into tools you can use." /><br />
+  Software engineering undergraduate, learning through projects and turning ideas into useful tools.
 </p>
 
 <p align="center">
-  <a href="https://skyjjgw.com">个人网站 skyjjgw.com ↗</a> ·
-  <a href="#正在探索">正在探索</a> ·
-  <a href="#项目陈列室">项目陈列室</a> ·
-  <a href="#我的工作方式">我的工作方式</a> ·
-  <a href="#技术栈与工具">技术栈</a> ·
-  <a href="https://github.com/skyjjgw/AI-practice-log">学习日志 ↗</a>
+  <a href="https://skyjjgw.com">Personal website ↗</a> ·
+  <a href="#currently-exploring">Exploring</a> ·
+  <a href="#project-showcase">Projects</a> ·
+  <a href="#how-i-work">How I work</a> ·
+  <a href="#tech-stack--tools">Tech stack</a> ·
+  <a href="https://github.com/skyjjgw/AI-practice-log">Learning log ↗</a>
 </p>
 
 <p align="center">
   <a href="https://skyjjgw.com"><img alt="Website: skyjjgw.com" src="https://img.shields.io/badge/Website-skyjjgw.com-C9AA58?style=flat-square" /></a>
   <a href="mailto:skyjjgw@gmail.com"><img alt="Email: skyjjgw@gmail.com" src="https://img.shields.io/badge/Email-skyjjgw%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw"><img alt="GitHub · skyjjgw" src="https://img.shields.io/badge/GitHub-skyjjgw-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="https://github.com/skyjjgw/AI-practice-log"><img alt="学习日志" src="https://img.shields.io/badge/Build%20Log-AI%20Practice-668A43?style=flat-square" /></a>
+  <a href="https://github.com/skyjjgw/AI-practice-log"><img alt="Learning log" src="https://img.shields.io/badge/Build%20Log-AI%20Practice-668A43?style=flat-square" /></a>
 </p>
 
 ---
 
-## 正在探索
+## Currently exploring
 
-我对 **AI 怎样进入真实的软件流程** 很感兴趣：从文档检索与问答，到 Agent 调用工具，再到用户能直接操作的桌面应用。
+I'm interested in **bringing AI into real software workflows**, from document retrieval and question answering to agents that use tools and desktop applications people can interact with directly.
 
-目前主要用 **Python / FastAPI** 实践后端和 AI 应用，也在系统补齐 **Java / Spring Boot**。比起只做一个演示，我更想把数据流、页面交互、失败恢复和部署这些环节接起来。
+I mainly use **Python / FastAPI** to build backend services and AI applications, while developing a stronger foundation in **Java / Spring Boot**. I enjoy connecting the whole workflow: data, user interactions, failure recovery, and deployment.
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="260" align="left">方向</th>
-      <th width="900" align="left">我关心的问题</th>
+      <th width="260" align="left">Focus</th>
+      <th width="900" align="left">Questions I'm exploring</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="260"><strong>01 / AI 应用</strong></td>
-      <td width="900">文档如何被理解、检索，并转化为可核对的回答？</td>
+      <td width="260"><strong>01 / AI applications</strong></td>
+      <td width="900">How can documents be understood, retrieved, and turned into answers that can be verified?</td>
     </tr>
     <tr>
-      <td width="260"><strong>02 / 软件工具</strong></td>
-      <td width="900">能不能把一个麻烦的操作，变成顺手的小工具？</td>
+      <td width="260"><strong>02 / Software tools</strong></td>
+      <td width="900">Can a tedious task become a simple, useful tool?</td>
     </tr>
     <tr>
-      <td width="260"><strong>03 / 自动化</strong></td>
-      <td width="900">流程失败后，怎样知道停在哪里、从哪里继续？</td>
+      <td width="260"><strong>03 / Automation</strong></td>
+      <td width="900">When a workflow fails, how can we find where it stopped and resume from there?</td>
     </tr>
   </tbody>
 </table>
 
-## 项目陈列室
+## Project showcase
 
-### 让 AI 处理具体的问题
+### AI for practical problems
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="260" align="left">项目</th>
-      <th width="900" align="left">在做什么</th>
+      <th width="260" align="left">Project</th>
+      <th width="900" align="left">What I'm building</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="260"><strong><a href="https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users">视障辅助导航</a></strong></td>
-      <td width="900">探索云端服务、边缘视觉感知与志愿者端协同的辅助系统。</td>
+      <td width="260"><strong><a href="https://github.com/skyjjgw/An-edge-cloud-collaborative-assistive-navigation-system-for-visually-impaired-users">Assistive Navigation</a></strong></td>
+      <td width="900">Exploring an assistive system that connects cloud services, edge vision, and volunteer support.</td>
     </tr>
     <tr>
       <td width="260"><strong><a href="https://github.com/skyjjgw/enterprise-rag-knowledge-base">Enterprise RAG</a></strong></td>
-      <td width="900">围绕文档解析、混合检索和多步问答构建知识库应用。</td>
+      <td width="900">Building a knowledge base application with document parsing, hybrid retrieval, and multi-step question answering.</td>
     </tr>
     <tr>
       <td width="260"><strong><a href="https://github.com/skyjjgw/BookTranslator">BookTranslator</a></strong></td>
-      <td width="900">尝试把文档提取、模型翻译、术语复用和断点恢复连成流程。</td>
+      <td width="900">Connecting document extraction, AI translation, terminology reuse, and resumable processing.</td>
     </tr>
   </tbody>
 </table>
 
-### 把日常操作做成工具
+### Tools for everyday tasks
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="260" align="left">项目</th>
-      <th width="900" align="left">在做什么</th>
+      <th width="260" align="left">Project</th>
+      <th width="900" align="left">What I'm building</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td width="260"><strong><a href="https://github.com/skyjjgw/drip-browser-source">Drip Browser</a></strong></td>
-      <td width="900">基于 Electron 的 Windows 浏览器，探索标签页和桌面交互。</td>
+      <td width="900">An Electron-based Windows browser exploring tabs and desktop interactions.</td>
     </tr>
     <tr>
       <td width="260"><strong><a href="https://github.com/skyjjgw/xmind-to-html">XMind → HTML</a></strong></td>
-      <td width="900">将思维导图转换为可独立打开的交互式 HTML。</td>
+      <td width="900">Converting mind maps into interactive HTML files that open independently.</td>
     </tr>
     <tr>
       <td width="260"><strong><a href="https://github.com/skyjjgw/QuickNotes">QuickNotes</a></strong></td>
-      <td width="900">支持 Markdown 与悬浮窗口的轻量桌面笔记工具。</td>
+      <td width="900">A lightweight desktop notes tool with Markdown support and floating windows.</td>
     </tr>
   </tbody>
 </table>
 
-### 把重复经验沉淀下来
+### Making experience reusable
 
-**[FlowForge](https://github.com/skyjjgw/flowforge-workflow-studio)** · 基于 HumanJS 改造的浏览器工作流工作台，探索录制、画布编排和独立程序导出，仍在迭代。
+**[FlowForge](https://github.com/skyjjgw/flowforge-workflow-studio)** · A browser workflow studio adapted from HumanJS, exploring recording, visual orchestration, and standalone application export. Still evolving.
 
-**[Account Registration Skill](https://github.com/skyjjgw/account-registration-skill)** · 将授权注册中的邮箱验证、页面状态判断和中断恢复整理成可复用技能。
+**[Account Registration Skill](https://github.com/skyjjgw/account-registration-skill)** · A reusable skill for authorized signup workflows, covering email verification, page state detection, and recovery from interruptions.
 
-**[AI Practice Log](https://github.com/skyjjgw/AI-practice-log)** · 留下学习笔记、实验过程和项目复盘。
+**[AI Practice Log](https://github.com/skyjjgw/AI-practice-log)** · Learning notes, experiments, and project retrospectives.
 
-## 我的工作方式
+## How I work
 
-**发现问题 → 做出最小版本 → 接通数据与交互 → 验证与迭代**
+**Find a problem → Build a minimal version → Connect data and interactions → Validate and iterate**
 
-我会使用 AI 编程工具协助开发，也在学习如何更清楚地描述需求、阅读代码和验证结果。这里既有完整些的项目，也有进行中的实验；项目说明会尽量写清楚当前能力和边界。
+I use AI coding tools to help with development, while learning to describe requirements clearly, read code, and verify results. This profile includes both more developed projects and ongoing experiments; I aim to document what each project can do and where its limits are.
 
-## 技术栈与工具
+## Tech stack & tools
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -142,12 +142,12 @@
   <img alt="Spring Boot · Learning" src="https://img.shields.io/badge/Spring%20Boot%20%C2%B7%20Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
-<sub>日常使用与学习中的工具；Java / Spring Boot 标注为 Learning。</sub>
+<sub>Tools I use and study. Java / Spring Boot are marked as Learning.</sub>
 
 
 ---
 
 <p align="center">
-  <b>让想法落地，也让过程留下痕迹。</b><br />
+  <b>Bring ideas to life, and leave a record of the journey.</b><br />
   <sub>Learning in public · Building one useful thing at a time</sub>
 </p>
