@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://skyjjgw.com"><img src="./assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
+  <a href="https://skyjjgw.com"><img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/intro-typing.svg" width="560" alt="Hi, I'm SKYJJGW. Turning ideas into tools you can use." /><br />
+  <img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/intro-typing.svg" width="560" alt="Hi, I'm SKYJJGW. Turning ideas into tools you can use." /><br />
   Software engineering undergraduate, learning through projects and turning ideas into useful tools.
 </p>
 
