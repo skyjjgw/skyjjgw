@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://skyjjgw.com">Personal website ↗</a> ·
-  <a href="#currently-exploring">Exploring</a> ·
   <a href="#project-showcase">Projects</a> ·
   <a href="#how-i-work">How I work</a> ·
   <a href="#tech-stack--tools">Tech stack</a> ·
@@ -24,35 +23,6 @@
 </p>
 
 ---
-
-## Currently exploring
-
-I'm interested in **bringing AI into real software workflows**, from document retrieval and question answering to agents that use tools and desktop applications people can interact with directly.
-
-I mainly use **Python / FastAPI** to build backend services and AI applications, while developing a stronger foundation in **Java / Spring Boot**. I enjoy connecting the whole workflow: data, user interactions, failure recovery, and deployment.
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="260" align="left">Focus</th>
-      <th width="900" align="left">Questions I'm exploring</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="260"><strong>01 / AI applications</strong></td>
-      <td width="900">How can documents be understood, retrieved, and turned into answers that can be verified?</td>
-    </tr>
-    <tr>
-      <td width="260"><strong>02 / Software tools</strong></td>
-      <td width="900">Can a tedious task become a simple, useful tool?</td>
-    </tr>
-    <tr>
-      <td width="260"><strong>03 / Automation</strong></td>
-      <td width="900">When a workflow fails, how can we find where it stopped and resume from there?</td>
-    </tr>
-  </tbody>
-</table>
 
 ## Project showcase
 
@@ -105,14 +75,6 @@ I mainly use **Python / FastAPI** to build backend services and AI applications,
     </tr>
   </tbody>
 </table>
-
-### Making experience reusable
-
-**[FlowForge](https://github.com/skyjjgw/flowforge-workflow-studio)** · A browser workflow studio adapted from HumanJS, exploring recording, visual orchestration, and standalone application export. Still evolving.
-
-**[Account Registration Skill](https://github.com/skyjjgw/account-registration-skill)** · A reusable skill for authorized signup workflows, covering email verification, page state detection, and recovery from interruptions.
-
-**[AI Practice Log](https://github.com/skyjjgw/AI-practice-log)** · Learning notes, experiments, and project retrospectives.
 
 ## How I work
 
