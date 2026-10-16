@@ -144,6 +144,18 @@ I use AI coding tools to help with development, while learning to describe requi
 
 <sub>Tools I use and study. Java / Spring Boot are marked as Learning.</sub>
 
+## Contribution trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
+  <img width="100%" alt="A snake follows my GitHub contribution trail, eating the contribution squares along the way." src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
+</picture>
+
+<p align="center">
+  <sub>One contribution at a time, a trail takes shape.</sub>
+</p>
+
 
 ---
 
