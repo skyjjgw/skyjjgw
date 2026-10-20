@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="600" viewBox="0 0 720 600" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">欢迎加入 Skymoni 创作者社区</title>
+  <desc id="desc">让灵感相遇，让作品被看见。分享作品，交流 AI 与技术，遇见一起创造的人。点击加入我们的社区。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1623"/><stop offset="1" stop-color="#102b32"/></linearGradient>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#45576a"/><stop offset="1" stop-color="#588778"/></linearGradient>
+    <linearGradient id="mint"><stop stop-color="#dcffec"/><stop offset="1" stop-color="#8de0be"/></linearGradient>
+    <radialGradient id="aurora"><stop stop-color="#62e0b8" stop-opacity=".16"/><stop offset="1" stop-color="#62e0b8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#a2cfcc" stroke-opacity=".035"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="718" height="598" rx="24"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:Inter,"Segoe UI","Microsoft YaHei","PingFang SC",Arial,sans-serif}
+    .orbit{transform-origin:606px 130px;animation:orbit 55s linear infinite}
+    .spark{animation:twinkle 5s ease-in-out infinite alternate}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes twinkle{from{opacity:.3}to{opacity:.9}}
+    @media(prefers-reduced-motion:reduce){.orbit,.spark{animation:none}}
+  </style>
+  <g clip-path="url(#clip)">
+    <path fill="url(#bg)" d="M0 0h720v600H0z"/>
+    <path fill="url(#grid)" d="M0 0h720v600H0z"/>
+    <ellipse cx="680" cy="250" rx="390" ry="470" fill="url(#aurora)"/>
+    <g stroke="#b1ecd3" stroke-opacity=".16">
+      <circle cx="606" cy="130" r="92"/><circle cx="606" cy="130" r="65" stroke-dasharray="2 8"/>
+      <ellipse cx="606" cy="130" rx="119" ry="42" transform="rotate(-38 606 130)"/>
+    </g>
+    <g class="orbit"><circle cx="606" cy="38" r="4" fill="#c1f5da"/></g>
+    <path d="M606 89C612 118 618 124 647 130 618 136 612 142 606 171 600 142 594 136 565 130 594 124 600 118 606 89Z" fill="url(#mint)"/>
+    <circle class="spark" cx="663" cy="229" r="2" fill="#c1f5da"/>
+    <path d="m64 60 4 13 13 4-13 4-4 13-4-13-13-4 13-4z" fill="#bbf4d6"/>
+    <text x="91" y="87" fill="#effaf5" font-size="32" font-weight="650" letter-spacing="-1">skymoni</text>
+    <text x="48" y="127" fill="#9bb6bd" font-size="13" letter-spacing="2.5">CREATORS COMMUNITY</text>
+    <text x="48" y="201" fill="#8da7b4" font-size="12" font-weight="600" letter-spacing="2.1">GOOD IDEAS DESERVE GOOD COMPANY.</text>
+    <text x="45" y="275" fill="#f3f7f8" font-size="54" font-weight="700" letter-spacing="1">让灵感相遇，</text>
+    <text x="45" y="347" fill="url(#mint)" font-size="54" font-weight="700" letter-spacing="1">让作品被看见。</text>
+    <text x="48" y="398" fill="#adc0c8" font-size="23">分享作品 · 交流 AI 与技术</text>
+    <text x="48" y="434" fill="#adc0c8" font-size="23">遇见一起创造的人</text>
+    <rect x="48" y="475" width="288" height="64" rx="32" fill="url(#mint)"/>
+    <text x="76" y="515" fill="#153a32" font-size="22" font-weight="700">加入我们的社区</text>
+    <path d="m290 515 15-15m-15 0h15v15" stroke="#153a32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="361" y="513" fill="#a0b9bf" font-size="18">skymoni.com/creators</text>
+    <circle class="spark" cx="658" cy="399" r="2" fill="#c1f5da"/>
+  </g>
+  <rect x=".5" y=".5" width="719" height="599" rx="24" stroke="url(#edge)"/>
+</svg>

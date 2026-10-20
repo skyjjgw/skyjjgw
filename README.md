@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://skyjjgw.com">Personal website ↗</a> ·
+  <a href="https://skymoni.com/creators">Community ↗</a> ·
   <a href="#project-showcase">Projects</a> ·
   <a href="#how-i-work">How I work</a> ·
   <a href="#tech-stack--tools">Tech stack</a> ·
@@ -20,6 +21,23 @@
   <a href="mailto:skyjjgw@gmail.com"><img alt="Email: skyjjgw@gmail.com" src="https://img.shields.io/badge/Email-skyjjgw%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw"><img alt="GitHub · skyjjgw" src="https://img.shields.io/badge/GitHub-skyjjgw-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://github.com/skyjjgw/AI-practice-log"><img alt="Learning log" src="https://img.shields.io/badge/Build%20Log-AI%20Practice-668A43?style=flat-square" /></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://skymoni.com/creators">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-community-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-community.svg" width="100%" alt="欢迎加入 Skymoni 创作者社区：让灵感相遇，让作品被看见。分享作品、交流 AI 与技术、遇见一起创造的人。点击加入我们的社区。" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <b>欢迎加入我们的社区，一起把想法变成作品。</b><br />
+  <sub>Share what you build. Meet people who inspire you. Create something together.</sub><br /><br />
+  <a href="https://skymoni.com/creators"><b>探索社区 / Join the community ↗</b></a>
 </p>
 
 ---
