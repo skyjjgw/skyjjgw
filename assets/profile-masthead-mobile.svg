@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="288" viewBox="0 0 720 288" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">skyjjgw · Ideas into useful things.</title>
+<desc id="desc">Software engineering student. Learning by building.</desc>
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#fffdf8"/><stop offset="1" stop-color="#edf4fb"/></linearGradient></defs>
+<style>text{font-family:"Segoe UI",Arial,sans-serif}</style>
+<rect x=".75" y=".75" width="718.5" height="286.5" rx="23.25" fill="url(#paper)" stroke="#dce5ec" stroke-width="1.5"/>
+<path d="M43 52h25" stroke="#d5b569" stroke-width="3" stroke-linecap="round"/>
+<text x="81" y="58" fill="#8799ab" font-size="16" letter-spacing="2.3">A PERSONAL SPACE FOR IDEAS</text>
+<text x="37" y="160" fill="#304968" font-size="90" font-weight="700" letter-spacing="-5">skyjjgw<tspan fill="#d5b569">.</tspan></text>
+<text x="43" y="213" fill="#6b7f95" font-size="25">Software engineering student</text>
+<text x="43" y="251" fill="#6b7f95" font-size="25">Learning by building · Sharing along the way</text>
+<path d="M609 106q5 23 28 28-23 5-28 28-5-23-28-28 23-5 28-28Z" fill="#a9c6e3"/>
+</svg>
