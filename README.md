@@ -1,15 +1,10 @@
 <p align="center">
-  <a href="https://skyjjgw.com">
-    <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/profile-masthead-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/profile-masthead.svg" width="100%" alt="skyjjgw — Software engineering student. Learning by building, sharing along the way." />
-    </picture>
-  </a>
+  <a href="https://skyjjgw.com"><img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
 </p>
 
 <p align="center">
-  Exploring <b>AI applications</b>, <b>backend systems</b>, and <b>everyday tools</b>.<br />
-  <sub>把想法变成能用的东西，也记录一路上的学习。</sub>
+  <img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/intro-typing.svg" width="560" alt="Hi, I'm SKYJJGW. Turning ideas into tools you can use." /><br />
+  Software engineering undergraduate, learning through projects and turning ideas into useful tools.
 </p>
 
 <p align="center">
@@ -117,14 +112,6 @@
 </picture>
 
 <p align="center"><sub>Small steps. Useful things. A trail worth keeping.</sub></p>
-
-<details>
-  <summary>After hours · One lantern, a sky full of stars</summary>
-  <br />
-  <p align="center">
-    <a href="https://skyjjgw.com"><img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
-  </p>
-</details>
 
 <br />
 
