@@ -28,16 +28,16 @@
 <p align="center">
   <a href="https://skymoni.com/creators">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-community-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-community.svg" width="100%" alt="欢迎加入 Skymoni 创作者社区：让灵感相遇，让作品被看见。分享作品、交流 AI 与技术、遇见一起创造的人。点击加入我们的社区。" />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-cloud-invitation-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-cloud-invitation.svg" width="100%" alt="Skymoni 云端邀请函：你的脑洞，这里有人接住。聊 AI、晒作品、交换新灵感。欢迎免费加入我们的社区，点击来社区坐坐。" />
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <b>欢迎加入我们的社区，一起把想法变成作品。</b><br />
-  <sub>Share what you build. Meet people who inspire you. Create something together.</sub><br /><br />
-  <a href="https://skymoni.com/creators"><b>探索社区 / Join the community ↗</b></a>
+  <b>欢迎加入 skymoni 社区。你的下一个灵感，也许就从一次相遇开始。</b><br />
+  <sub>A little place for big ideas. Come as you are, create what you love.</sub><br /><br />
+  <a href="https://skymoni.com/creators"><b>☁ 来社区坐坐 / Meet us in the clouds ↗</b></a>
 </p>
 
 ---

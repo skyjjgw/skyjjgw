@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Skymoni 云端邀请函 · 你的脑洞，这里有人接住。</title>
+<desc id="desc">欢迎加入 skymoni 社区。聊 AI，晒作品，交换新灵感。奶油色的云端小店里，云朵伙伴正向你招手。社区免费注册，点击来社区坐坐。</desc>
+
+<defs>
+  <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#fbf6ec"/></linearGradient>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf6fc"/><stop offset="1" stop-color="#dbeafa"/></linearGradient>
+  <linearGradient id="blue" x2="1" y2="1"><stop stop-color="#668fd0"/><stop offset="1" stop-color="#5279b7"/></linearGradient>
+  <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#eef7fc"/><stop offset="1" stop-color="#fffdf7"/></linearGradient>
+  <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r=".6" fill="#b4a78c" opacity=".12"/><circle cx="13" cy="14" r=".5" fill="#b4a78c" opacity=".1"/></pattern>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#7293af" flood-opacity=".12"/></filter>
+  <g id="twinkle"><path d="M0-10Q2-2 10 0 2 2 0 10-2 2-10 0-2-2 0-10Z"/></g>
+  <g id="cloud"><path d="M-65 26C-98 25-100-16-70-22-72-58-23-73-4-41 22-67 60-43 58-18 91-21 98 23 65 26Z" fill="#fffefb" stroke="#a6c6df" stroke-width="2"/><path d="M-65 25H65" stroke="#dceaf2" stroke-width="5" stroke-linecap="round"/></g>
+  <g id="plane"><path d="m-32 4 65-23L7 27-1 8Z" fill="#fffefb" stroke="#7b9fc5" stroke-width="1.8" stroke-linejoin="round"/><path d="M-1 8 33-19 7 27 5 9Z" fill="#dcecf8"/><path d="M-1 8 33-19 5 9" stroke="#7b9fc5" stroke-width="1.5" stroke-linejoin="round"/></g>
+  <g id="shop">
+    <ellipse cx="205" cy="329" rx="161" ry="18" fill="#8baed0" opacity=".12"/>
+    <!-- A tiny community storefront, inspired by the actual forum awning. -->
+    <rect x="51" y="106" width="308" height="214" rx="16" fill="#fffdf7" stroke="#91b2cc" stroke-width="2" filter="url(#shadow)"/>
+    <rect x="67" y="129" width="276" height="152" rx="8" fill="url(#glass)" stroke="#d8e5ed"/>
+    <path d="M72 266H338" stroke="#d4e4ee" stroke-width="2"/>
+    <path d="M255 131v134" stroke="#d4e4ee" stroke-width="2"/>
+    <path d="M267 145h29m-29 8h44" stroke="#c6dceb" stroke-width="2" stroke-linecap="round"/>
+    <rect x="130" y="27" width="152" height="49" rx="12" fill="#fffdf8" stroke="#95b4d0" stroke-width="1.8"/>
+    <path d="M148 76v20m116-20v20" stroke="#95b4d0" stroke-width="2"/>
+    <text x="206" y="59" text-anchor="middle" fill="#476b98" font-size="21" font-weight="600">灵感营业中</text>
+    <path d="M44 97H366l8 40H36Z" fill="#d8eaf4" stroke="#8eafc9" stroke-width="2"/>
+    <g stroke="#9cb7c9" stroke-width="1.5">
+      <path d="M44 97h40v40a20 20 0 0 1-40 0Z" fill="#d9ecf8"/>
+      <path d="M84 97h40v40a20 20 0 0 1-40 0Z" fill="#faedc9"/>
+      <path d="M124 97h40v40a20 20 0 0 1-40 0Z" fill="#d9ecf8"/>
+      <path d="M164 97h40v40a20 20 0 0 1-40 0Z" fill="#faedc9"/>
+      <path d="M204 97h40v40a20 20 0 0 1-40 0Z" fill="#d9ecf8"/>
+      <path d="M244 97h40v40a20 20 0 0 1-40 0Z" fill="#faedc9"/>
+      <path d="M284 97h40v40a20 20 0 0 1-40 0Z" fill="#d9ecf8"/>
+      <path d="M324 97h42l8 40a24 20 0 0 1-50 0Z" fill="#faedc9"/>
+    </g>
+    <!-- The cloud host reaches out from behind the counter. -->
+    <g class="host">
+      <g transform="translate(165 222) scale(.88)">
+        <use href="#cloud"/>
+        <path d="M-26-9v6m45-6v6" stroke="#4e6e93" stroke-width="4.5" stroke-linecap="round"/>
+        <path d="M-8 6q8 10 16 0" stroke="#4e6e93" stroke-width="2.5" stroke-linecap="round"/>
+        <ellipse cx="-39" cy="7" rx="10" ry="5" fill="#f4d5d7"/><ellipse cx="38" cy="7" rx="10" ry="5" fill="#f4d5d7"/>
+        <path d="m33-48 5-11 7 9 12 1-7 10 2 12-12-4-10 6 1-13-8-8Z" fill="#f6d991" stroke="#d9b967" stroke-width="1.3"/>
+      </g>
+      <path d="M229 225q18-19 11-29" stroke="#a6c6df" stroke-width="10" stroke-linecap="round"/>
+      <path d="m250 181 4-6m-1 19h7" stroke="#b1c6d8" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <rect x="40" y="267" width="331" height="21" rx="6" fill="#deebf4" stroke="#99b7cd" stroke-width="1.6"/>
+    <path d="M63 289v31m285-31v31" stroke="#91b2cc" stroke-width="2"/>
+    <text x="205" y="310" text-anchor="middle" fill="#7c95ac" font-size="11" letter-spacing="3">A LITTLE PLACE FOR BIG IDEAS</text>
+    <!-- A work in progress sits in the window. -->
+    <g transform="translate(272 188) rotate(8 30 34)">
+      <rect width="62" height="67" rx="6" fill="#fffdf7" stroke="#a9bfd2" stroke-width="1.4"/>
+      <rect x="8" y="9" width="46" height="29" rx="3" fill="#e1edf9"/>
+      <path d="m15 31 11-12 10 9 6-5 8 8" stroke="#92b1d2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="43" cy="17" r="4" fill="#f8df9c"/>
+      <path d="M10 48h28m-28 7h39" stroke="#b8cad8" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+    <!-- Small plants and little details make the place feel inhabited. -->
+    <path d="M34 302q-18-16-13-27 16 1 16 26m0-4q6-22 18-20 0 15-18 25" fill="#bfd5ca" stroke="#87aa9d" stroke-width="1.5"/>
+    <path d="M22 301h29l-4 24H26Z" fill="#efdfc6" stroke="#bda98c" stroke-width="1.4"/>
+    <path d="M374 325h23" stroke="#b0c6d4" stroke-width="2" stroke-linecap="round"/>
+    <path d="M385 304v20m-7-20h14l-3-21h-7Z" fill="#fff0c6" stroke="#ccb67d" stroke-width="1.5"/>
+  </g>
+</defs>
+<style>
+  text{font-family:"Segoe UI","Microsoft YaHei","PingFang SC",Arial,sans-serif}
+  .cloud-drift{animation:cloud-drift 10s ease-in-out infinite alternate}
+  .cloud-late{animation-delay:-5s}
+  .host{animation:hello 5s ease-in-out infinite;transform-origin:170px 250px}
+  .plane-flight{animation:plane-flight 8s ease-in-out infinite}
+  .trail{stroke-dasharray:3 8;animation:trail 8s linear infinite}
+  .shine{animation:shine 3.5s ease-in-out infinite alternate}
+  @keyframes cloud-drift{to{transform:translateX(14px)}}
+  @keyframes hello{0%,40%,100%{transform:translateY(0)}50%,65%{transform:translateY(-5px)}}
+  @keyframes plane-flight{0%,100%{transform:translate(0,0) rotate(-3deg)}50%{transform:translate(15px,-9px) rotate(5deg)}}
+  @keyframes trail{to{stroke-dashoffset:-88}}
+  @keyframes shine{from{opacity:.35}to{opacity:1}}
+  @media(prefers-reduced-motion:reduce){.cloud-drift,.host,.plane-flight,.trail,.shine{animation:none}}
+</style>
+
+
+<defs><clipPath id="frame"><rect x="1" y="1" width="1198" height="498" rx="24"/></clipPath></defs>
+<g clip-path="url(#frame)">
+  <path fill="url(#paper)" d="M0 0h1200v500H0z"/><path fill="url(#grain)" d="M0 0h1200v500H0z"/>
+  <path d="M745 0h455v500H745q61-122 0-250T745 0" fill="url(#sky)"/>
+  <circle cx="1059" cy="96" r="42" fill="#f8ebc7" opacity=".75"/>
+  <circle cx="1059" cy="96" r="52" stroke="#e9dcb7" stroke-dasharray="2 8"/>
+  <path d="M36 48V31h18m1092 0h18v17M36 453v17h18m1092 0h18v-17" stroke="#b1c5d6" stroke-width="1.4"/>
+  <path d="M704 42v416" stroke="#b9cbd9" stroke-dasharray="3 8"/>
+  <circle cx="704" cy="0" r="13" fill="#fff" stroke="#d9e1e8"/><circle cx="704" cy="500" r="13" fill="#fff" stroke="#d9e1e8"/>
+
+  <g transform="translate(80 67) scale(.24)"><use href="#cloud"/><path d="M-24-7v4m42-4v4" stroke="#6284a8" stroke-width="6" stroke-linecap="round"/><path d="M-7 9q7 8 14 0" stroke="#6284a8" stroke-width="4"/></g>
+  <text x="107" y="77" fill="#304a6a" font-size="28" font-weight="700" letter-spacing="-1">skymoni</text>
+  <text x="256" y="75" fill="#7b8da2" font-size="13" letter-spacing="1">社区 · 云端邀请函</text>
+  <text x="65" y="121" fill="#8c9eb1" font-size="10" letter-spacing="3">A NOTE FROM THE CLOUDS, JUST FOR YOU.</text>
+<g fill="#304968" aria-label="你的脑洞，"><path d="M80 85Q80 67 79.0 41.0Q78 15 74.0 3.5Q70 -8 64.5 5.0Q59 18 62.5 27.0Q66 36 67.5 54.5Q69 73 69 92Q69 112 67 120Q55 105 45.5 96.5Q36 88 23.0 80.5Q10 73 23.5 86.5Q37 100 49.5 117.0Q62 134 72.0 156.0Q82 178 80.5 189.0Q79 200 93.0 190.0Q107 180 103.0 176.0Q99 172 93.5 163.0Q88 154 73 129Q85 118 82.5 111.0Q80 104 80 85ZM131 126Q120 111 108.0 102.5Q96 94 104.0 105.0Q112 116 122.5 132.5Q133 149 139.5 167.0Q146 185 144.0 195.0Q142 205 157.0 197.0Q172 189 167.0 183.5Q162 178 156.0 167.0Q150 156 135 131Q141 131 155.5 134.5Q170 138 180.0 141.5Q190 145 195.5 148.5Q201 152 209.0 149.0Q217 146 226.0 139.0Q235 132 222.0 128.0Q209 124 196.5 110.5Q184 97 191.0 114.5Q198 132 197.0 134.0Q196 136 189.5 134.5Q183 133 162 128L154 125Q147 123 142.5 121.5Q138 120 131 126ZM169 67Q169 42 170.5 24.5Q172 7 163.0 -6.0Q154 -19 149.0 -9.0Q144 1 132.0 8.5Q120 16 131.5 14.0Q143 12 149.0 12.5Q155 13 155.5 33.5Q156 54 155.0 76.0Q154 98 150.0 105.0Q146 112 152 112Q159 112 167.0 108.0Q175 104 172.0 98.5Q169 93 169 67ZM202 67Q224 59 228.5 49.0Q233 39 230.0 29.5Q227 20 215.0 33.5Q203 47 191.5 61.0Q180 75 202 67ZM115 74Q120 87 120.5 69.0Q121 51 111.5 34.5Q102 18 98.5 29.0Q95 40 102.5 51.0Q110 62 115 74Z" transform="translate(60.00 202) scale(0.2421875 -0.2421875)"/><path d="M52 30Q48 8 43.5 17.0Q39 26 39 42Q39 58 38.0 82.0Q37 106 31.0 115.0Q25 124 30 124Q35 124 44 122Q53 134 62.5 154.5Q72 175 68.5 185.0Q65 195 80 188Q98 180 91.5 174.5Q85 169 77.0 157.0Q69 145 52 122Q76 126 83.0 132.0Q90 138 97.5 134.5Q105 131 111.0 127.0Q117 123 113.5 117.5Q110 112 108.0 103.0Q106 94 107.0 70.0Q108 46 105.5 34.0Q103 22 100.0 15.5Q97 9 93.5 15.5Q90 22 87.0 27.5Q84 33 80.5 33.5Q77 34 52 30ZM203 108Q203 124 199.0 126.5Q195 129 182 126L162 121Q156 120 149 126Q132 108 118.0 99.0Q104 90 120.0 108.0Q136 126 149.5 152.0Q163 178 159.5 188.5Q156 199 166.0 196.0Q176 193 181.5 189.0Q187 185 182.5 180.0Q178 175 171.5 162.0Q165 149 152 131Q188 133 195.0 138.0Q202 143 210.5 139.5Q219 136 224.5 130.5Q230 125 225.0 120.0Q220 115 218.0 94.0Q216 73 214.5 52.0Q213 31 206.0 16.5Q199 2 186.0 -5.5Q173 -13 172.0 -2.0Q171 9 159.5 22.0Q148 35 160.5 28.5Q173 22 180.5 20.5Q188 19 193.5 32.0Q199 45 201.0 68.5Q203 92 203 108ZM50 70 51 38Q60 39 69.0 42.5Q78 46 82.5 41.5Q87 37 89.5 43.5Q92 50 92.5 80.0Q93 110 90.0 114.5Q87 119 80.5 118.5Q74 118 49 113L50 79Q63 81 68.0 83.5Q73 86 78.5 81.5Q84 77 74.5 73.5Q65 70 50 70ZM149 67Q136 85 133.5 90.0Q131 95 143.0 91.5Q155 88 161.0 80.0Q167 72 164.5 61.0Q162 50 149 67Z" transform="translate(123.00 202) scale(0.2421875 -0.2421875)"/><path d="M56 129Q63 129 69.5 131.0Q76 133 79.5 128.5Q83 124 73.0 122.5Q63 121 56 123Q56 111 54 87Q60 88 67.5 90.0Q75 92 78.5 88.0Q82 84 74.5 82.0Q67 80 54 81Q53 72 49.5 57.0Q46 42 38.0 24.5Q30 7 17.0 -3.0Q4 -13 14.5 2.0Q25 17 32.5 40.0Q40 63 42.5 84.5Q45 106 45 118V141Q45 153 44.5 160.5Q44 168 41.0 172.0Q38 176 48.0 175.5Q58 175 69.0 177.5Q80 180 83.5 182.0Q87 184 97.0 179.0Q107 174 102.5 168.5Q98 163 96.5 146.5Q95 130 95 120V80Q95 51 95.5 33.0Q96 15 89.0 1.5Q82 -12 76.5 0.0Q71 12 62.0 20.0Q53 28 66.0 24.0Q79 20 80.0 26.0Q81 32 82.0 57.5Q83 83 83 107V148Q83 165 82.0 168.5Q81 172 75.0 171.0Q69 170 56 168ZM211 42Q212 77 211.0 85.0Q210 93 208.0 100.0Q206 107 220.0 101.5Q234 96 229.5 91.0Q225 86 225 66Q225 46 224.0 31.5Q223 17 219.0 13.0Q215 9 213.5 14.5Q212 20 211 34Q197 33 167.0 27.5Q137 22 128.5 16.0Q120 10 117.0 18.5Q114 27 116.5 31.0Q119 35 120.5 48.0Q122 61 121.5 69.5Q121 78 117.5 86.0Q114 94 119.5 93.0Q125 92 130.5 88.0Q136 84 134.5 80.0Q133 76 132.5 64.5Q132 53 131 31Q171 37 211 42ZM173 73Q167 65 158.0 56.0Q149 47 139.5 44.0Q130 41 140.0 50.0Q150 59 164 82Q151 95 143.0 102.5Q135 110 146.5 105.5Q158 101 171 92Q177 102 179.0 110.5Q181 119 180.5 123.5Q180 128 183.5 127.5Q187 127 194.0 122.0Q201 117 198.5 113.5Q196 110 192.0 104.0Q188 98 181 84Q197 70 199.0 63.5Q201 57 198.0 51.0Q195 45 188.0 55.0Q181 65 173 73ZM237 144Q237 140 225.5 139.5Q214 139 199.5 138.5Q185 138 164.0 134.5Q143 131 131.5 128.5Q120 126 110.0 132.5Q100 139 114.5 138.5Q129 138 164 144Q199 150 209.5 153.0Q220 156 228.5 152.0Q237 148 237 144ZM151 186Q145 197 160.0 192.5Q175 188 177.5 181.5Q180 175 178.0 167.0Q176 159 167.0 167.5Q158 176 151 186Z" transform="translate(186.00 202) scale(0.2421875 -0.2421875)"/><path d="M140 174Q179 180 186.5 184.0Q194 188 202.5 183.0Q211 178 218.0 173.0Q225 168 220.5 161.0Q216 154 216 138Q216 123 220.5 75.0Q225 27 221.0 15.0Q217 3 210.0 -6.0Q203 -15 200.0 -5.5Q197 4 184.5 16.5Q172 29 181.5 25.5Q191 22 196.5 21.0Q202 20 204.0 27.5Q206 35 206 60Q206 86 203.5 121.5Q201 157 196.0 164.0Q191 171 182.0 171.5Q173 172 146.0 168.5Q119 165 104 163Q104 110 102.5 77.5Q101 45 96.5 21.0Q92 -3 85.0 9.0Q78 21 82.0 32.5Q86 44 89.5 70.5Q93 97 93.5 125.0Q94 153 88.5 164.0Q83 175 90.0 174.0Q97 173 102.0 171.5Q107 170 140 174ZM134 59Q131 46 128.0 54.5Q125 63 123.5 75.5Q122 88 117.0 94.5Q112 101 117.5 101.5Q123 102 127.0 101.5Q131 101 143 103Q155 107 160.0 110.0Q165 113 171.0 110.5Q177 108 184.0 103.0Q191 98 184.0 92.0Q177 86 172 72Q180 63 168.5 62.5Q157 62 134 59ZM63 68Q49 36 46.5 19.5Q44 3 34.5 23.0Q25 43 30.5 45.0Q36 47 43.5 57.0Q51 67 65.5 89.0Q80 111 63 68ZM161 72Q163 83 164.0 90.5Q165 98 161.0 99.5Q157 101 133 95Q133 81 135 66Q148 68 161 72ZM153 144Q168 148 174.5 143.5Q181 139 170.5 135.5Q160 132 152.5 130.5Q145 129 137.5 128.5Q130 128 123.5 132.0Q117 136 128.0 138.0Q139 140 153 144ZM59 166Q52 172 48.5 179.0Q45 186 56.0 184.0Q67 182 72.5 177.0Q78 172 77.5 163.5Q77 155 71.5 157.5Q66 160 59 166ZM36 111Q27 120 24.5 127.5Q22 135 34.0 131.5Q46 128 49.0 122.0Q52 116 49.5 107.5Q47 99 36 111Z" transform="translate(249.00 202) scale(0.2421875 -0.2421875)"/><path d="M55 0Q46 0 42.0 3.0Q38 6 36.5 11.0Q35 16 36.0 20.5Q37 25 43.0 29.5Q49 34 58.0 32.0Q67 30 70.0 22.0Q73 14 69.0 1.5Q65 -11 54.5 -22.5Q44 -34 36.0 -35.0Q28 -36 34.0 -31.5Q40 -27 45.5 -20.0Q51 -13 55 0Z" transform="translate(312.00 202) scale(0.2421875 -0.2421875)"/></g><g fill="#567fb8" aria-label="这里有人接住。"><path d="M61 37Q60 52 54.5 63.0Q49 74 50.5 81.0Q52 88 54.0 94.0Q56 100 46.5 96.0Q37 92 29.5 95.0Q22 98 28.5 99.5Q35 101 42.5 105.0Q50 109 54.5 113.5Q59 118 70.0 111.5Q81 105 73.0 99.0Q65 93 63.0 82.5Q61 72 67.5 61.0Q74 50 68 36Q84 33 104.5 28.0Q125 23 159.5 18.0Q194 13 225.0 17.0Q256 21 247.0 16.0Q238 11 218.5 1.5Q199 -8 188.5 -7.0Q178 -6 151.5 3.0Q125 12 106.5 17.5Q88 23 74.5 26.5Q61 30 51.5 24.5Q42 19 36.5 16.5Q31 14 23.0 20.0Q15 26 23.5 27.0Q32 28 41.5 31.5Q51 35 61 37ZM161 87Q186 66 193.5 56.5Q201 47 196.5 39.0Q192 31 181.0 44.0Q170 57 154 72Q137 51 123.0 43.0Q109 35 99.0 33.5Q89 32 100.5 38.0Q112 44 123.5 56.0Q135 68 143 82Q123 100 113.5 108.0Q104 116 118.5 110.5Q133 105 151 94Q161 117 160 140Q134 136 122.0 132.5Q110 129 99.5 135.5Q89 142 98 142Q108 142 125.5 145.0Q143 148 157.0 151.0Q171 154 185.0 158.0Q199 162 208.0 155.5Q217 149 205.0 147.5Q193 146 165 141Q179 132 176.5 127.0Q174 122 161 87ZM136 194Q146 194 156.5 188.0Q167 182 164.5 170.0Q162 158 147.0 171.5Q132 185 129.0 189.5Q126 194 136 194ZM49 162Q43 172 42.0 175.0Q41 178 51.0 176.5Q61 175 68.5 167.5Q76 160 73.5 152.0Q71 144 63.5 148.5Q56 153 49 162Z" transform="translate(60.00 276) scale(0.2421875 -0.2421875)"/><path d="M132 94V63Q146 65 155.5 67.5Q165 70 172.5 63.5Q180 57 165.5 55.5Q151 54 132 51L131 19Q162 22 179.0 23.0Q196 24 210.5 25.5Q225 27 235.0 15.5Q245 4 226.0 7.0Q207 10 179 10Q151 10 106.5 5.0Q62 0 49.5 -3.0Q37 -6 25.5 2.0Q14 10 30 10Q46 10 66.5 12.0Q87 14 120 18V49Q101 46 93.5 45.0Q86 44 78.0 50.0Q70 56 82.5 56.5Q95 57 120 61V93Q103 91 90 89Q83 74 78.0 99.0Q73 124 69.0 140.5Q65 157 57.5 166.0Q50 175 60.5 174.0Q71 173 76.5 172.0Q82 171 109.5 174.0Q137 177 151.5 179.5Q166 182 171.5 185.5Q177 189 186.0 185.0Q195 181 204.0 174.5Q213 168 205.5 161.5Q198 155 189.0 129.0Q180 103 172.5 93.5Q165 84 162 95ZM133 126 132 102Q145 104 150.5 105.0Q156 106 160.5 102.5Q165 99 170.5 122.5Q176 146 176.5 158.0Q177 170 170.5 171.5Q164 173 130 168Q137 162 135.0 157.0Q133 152 133 140Q142 142 147.0 143.0Q152 144 157.0 139.5Q162 135 153.5 131.5Q145 128 133 126ZM81 163Q85 131 90 97L120 101V124H108Q103 124 99.0 127.0Q95 130 101.0 132.5Q107 135 119 137Q119 162 114 166Z" transform="translate(123.00 276) scale(0.2421875 -0.2421875)"/><path d="M108 75Q108 62 106 48Q124 49 134.5 52.5Q145 56 150.0 50.5Q155 45 137.0 42.0Q119 39 106 43Q104 15 97.5 1.0Q91 -13 86.5 -4.0Q82 5 86.5 15.0Q91 25 93.5 38.0Q96 51 97.5 74.5Q99 98 98 107Q82 85 66.5 70.0Q51 55 31.0 45.0Q11 35 30.0 50.0Q49 65 70.0 90.5Q91 116 108 150Q66 145 55.5 142.5Q45 140 36.0 146.0Q27 152 31.5 152.5Q36 153 52.0 153.5Q68 154 111 160Q123 190 118.5 198.0Q114 206 117 206Q121 206 132.5 202.0Q144 198 140.5 193.5Q137 189 134.0 181.0Q131 173 126 161Q146 164 165.5 167.0Q185 170 196.5 171.5Q208 173 218.5 171.5Q229 170 234.0 164.0Q239 158 233.0 157.0Q227 156 211.0 157.0Q195 158 173.5 156.5Q152 155 123 151Q114 131 105 118Q109 113 127.5 117.5Q146 122 152.0 124.0Q158 126 165.0 124.0Q172 122 177.5 119.0Q183 116 179.5 105.0Q176 94 177.0 80.5Q178 67 179.0 49.0Q180 31 181.0 16.5Q182 2 178.0 -7.5Q174 -17 167.5 -23.0Q161 -29 159.0 -20.5Q157 -12 147.0 -1.5Q137 9 145.5 6.5Q154 4 159.5 3.5Q165 3 165 29Q165 56 163.0 84.0Q161 112 154.0 114.0Q147 116 108 108V82Q119 83 132.5 86.5Q146 90 149.5 85.0Q153 80 140.0 77.5Q127 75 108 75Z" transform="translate(186.00 276) scale(0.2421875 -0.2421875)"/><path d="M113 114Q95 83 80.0 62.5Q65 42 50.5 30.0Q36 18 20.0 12.0Q4 6 22.0 19.5Q40 33 58.0 55.0Q76 77 90.0 104.5Q104 132 110.0 149.5Q116 167 112.5 178.0Q109 189 120.0 184.0Q131 179 137.0 174.0Q143 169 138.0 163.5Q133 158 127.5 145.5Q122 133 116 119Q133 98 159.0 72.5Q185 47 201.5 37.5Q218 28 238.0 21.5Q258 15 237.0 12.5Q216 10 201.5 11.5Q187 13 179.5 23.5Q172 34 151.0 61.5Q130 89 113 114Z" transform="translate(249.00 276) scale(0.2421875 -0.2421875)"/><path d="M173 100Q189 103 201.0 107.5Q213 112 221.0 105.0Q229 98 214.0 96.0Q199 94 148 86Q160 77 157.0 74.0Q154 71 150 64Q188 69 209.0 72.5Q230 76 240.5 69.0Q251 62 237.0 61.5Q223 61 181 59Q189 51 186.0 48.5Q183 46 180.5 41.5Q178 37 174 30Q193 22 208.0 13.5Q223 5 221.5 -6.5Q220 -18 205.5 -6.0Q191 6 165 18Q156 9 141.0 0.5Q126 -8 109.0 -9.0Q92 -10 105.0 -6.0Q118 -2 131.5 6.0Q145 14 155 25Q130 36 125.5 37.5Q121 39 124.0 42.5Q127 46 131 54Q114 51 106.0 49.0Q98 47 90.0 53.5Q82 60 95 60Q108 60 136 63Q143 74 139 84Q132 83 126.0 82.5Q120 82 112.0 86.0Q104 90 118.0 91.5Q132 93 164 99Q166 104 170.0 120.5Q174 137 170 141Q156 138 146.0 136.5Q136 135 131.5 135.5Q127 136 122.5 139.5Q118 143 123.5 143.5Q129 144 142.0 146.5Q155 149 169 153L193 160Q204 163 210.0 158.0Q216 153 205.5 149.0Q195 145 182 143Q193 135 189.5 130.5Q186 126 173 100ZM79 123V94Q101 108 98.0 102.5Q95 97 79 84Q80 51 81.0 30.5Q82 10 76.5 -2.5Q71 -15 65.5 -5.0Q60 5 49.5 15.0Q39 25 48.5 22.0Q58 19 63 19Q68 19 68.5 37.5Q69 56 69 75Q36 50 31.5 43.5Q27 37 15.0 45.5Q3 54 12.5 56.0Q22 58 31.5 62.5Q41 67 69 88V120Q58 118 51.0 117.5Q44 117 36.0 121.0Q28 125 37.5 127.0Q47 129 69 135Q69 154 68.5 170.5Q68 187 63.0 196.0Q58 205 67.5 202.5Q77 200 83.5 195.5Q90 191 85.5 185.5Q81 180 79 139Q87 141 92.5 142.0Q98 143 102.5 141.0Q107 139 101.0 133.0Q95 127 79 123ZM173 188Q180 183 178.5 174.0Q177 165 168.5 169.5Q160 174 148.5 185.5Q137 197 151.5 195.5Q166 194 173 188ZM172 58Q159 57 145 55Q138 44 138 43Q138 42 162 35Q169 44 172 58ZM133 115Q129 131 136.0 127.5Q143 124 147.0 119.0Q151 114 148.0 106.5Q145 99 133 115Z" transform="translate(312.00 276) scale(0.2421875 -0.2421875)"/><path d="M165 86Q176 88 186.0 90.5Q196 93 202.5 88.5Q209 84 199.5 80.5Q190 77 165 73L164 28L214 35Q224 37 232.5 32.5Q241 28 241.5 23.5Q242 19 225.5 20.0Q209 21 196.0 20.0Q183 19 173.0 18.0Q163 17 149.5 14.5Q136 12 126.0 10.0Q116 8 107.5 6.0Q99 4 89.0 10.0Q79 16 88.0 16.5Q97 17 105.5 18.0Q114 19 153 25V70Q143 69 134.0 68.0Q125 67 115.5 70.0Q106 73 121.5 75.5Q137 78 153 83Q153 104 152.5 109.5Q152 115 149 122Q130 119 121 119Q113 119 105.5 122.0Q98 125 111.0 127.0Q124 129 147.0 135.0Q170 141 187.0 145.0Q204 149 213.5 144.0Q223 139 205.5 134.5Q188 130 161 125Q170 117 167.5 112.0Q165 107 165 86ZM76 25Q76 5 72.0 -5.0Q68 -15 62.5 -3.0Q57 9 60.0 19.0Q63 29 64.5 50.0Q66 71 66.5 87.0Q67 103 62 110Q52 98 41.0 87.0Q30 76 18.0 70.0Q6 64 17.0 75.0Q28 86 43.5 107.0Q59 128 71.0 153.0Q83 178 81.0 187.0Q79 196 87.0 193.0Q95 190 101.0 183.5Q107 177 102.5 174.0Q98 171 88.0 153.5Q78 136 67 117Q77 110 78.0 105.5Q79 101 78.0 93.0Q77 85 76.5 65.5Q76 46 76 25ZM146 173Q139 182 138.0 185.5Q137 189 148.5 186.5Q160 184 169.0 178.0Q178 172 174.5 160.5Q171 149 162.5 157.0Q154 165 146 173Z" transform="translate(375.00 276) scale(0.2421875 -0.2421875)"/><path d="M91.0 39.0Q95 28 92.0 17.5Q89 7 81.0 1.5Q73 -4 62.0 -4.0Q51 -4 42.0 5.0Q33 14 33.0 24.5Q33 35 38.0 43.0Q43 51 53.5 55.0Q64 59 75.5 54.5Q87 50 91.0 39.0ZM73.0 11.0Q82 17 81.5 27.5Q81 38 71.5 43.0Q62 48 53.5 42.0Q45 36 45.0 26.0Q45 16 54.5 10.5Q64 5 73.0 11.0Z" transform="translate(438.00 276) scale(0.2421875 -0.2421875)"/></g>
+  <path d="M73 290q161 13 371-1" stroke="#eed8a5" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+  <text x="66" y="330" fill="#65758b" font-size="19">聊 AI，晒作品，交换一点新灵感。</text>
+  <text x="66" y="361" fill="#65758b" font-size="19">欢迎加入我们的社区，和有趣的人一起创造。</text>
+  <rect x="65" y="391" width="229" height="56" rx="17" fill="#d5e3ef" opacity=".5" transform="translate(0 5)"/>
+  <rect x="65" y="391" width="229" height="56" rx="17" fill="url(#blue)"/>
+  <text x="91" y="427" fill="#fff" font-size="21" font-weight="600">来社区坐坐</text>
+  <path d="M255 428v-17m-8 8 8-8 8 8" transform="rotate(45 255 420)" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="315" y="414" fill="#7389a0" font-size="14">免费注册 · 带上好奇心就好</text>
+  <text x="315" y="437" fill="#8b9fb2" font-size="12" letter-spacing=".8">skymoni.com/creators</text>
+
+  <g transform="translate(754 58)"><g class="cloud-drift"><use href="#cloud" transform="scale(.56)" opacity=".7"/></g></g>
+  <g transform="translate(1143 253)"><g class="cloud-drift cloud-late"><use href="#cloud" transform="scale(.64)" opacity=".65"/></g></g>
+  <path class="trail" d="M746 174c-73-72 49-122 69-75s-79 62-34 20 94-18 115-54" stroke="#9eb8cf" stroke-width="1.5" stroke-linecap="round"/>
+  <g transform="translate(905 65)"><g class="plane-flight"><use href="#plane" transform="rotate(-7) scale(.8)"/></g></g>
+  <g transform="translate(724 121)"><use href="#shop"/></g>
+  <g transform="translate(1012 145) rotate(5)">
+    <path d="M0 0h119a13 13 0 0 1 13 13v26a13 13 0 0 1-13 13H38L22 64l2-12H0A13 13 0 0 1-13 39V13A13 13 0 0 1 0 0Z" fill="#fffdf7" stroke="#b4c9dc" stroke-width="1.3"/>
+    <text x="59" y="32" text-anchor="middle" fill="#5c7d9f" font-size="16">新朋友，你好呀！</text>
+  </g>
+  <use href="#twinkle" class="shine" transform="translate(1141 116) scale(.65)" fill="#7c9cc7"/>
+  <use href="#twinkle" class="shine" transform="translate(759 312) scale(.6)" fill="#d9b768"/>
+  <text x="948" y="474" text-anchor="middle" fill="#8a9fb3" font-size="10" letter-spacing="3.3">YOUR IDEAS HAVE A PLACE HERE.</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="498.5" rx="23.25" stroke="#d9e2e9" stroke-width="1.5"/>
+
+</svg>
