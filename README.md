@@ -26,8 +26,6 @@
   </a>
 </p>
 
-<p align="center"><sub>THE BUILDING CONTINUES</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
