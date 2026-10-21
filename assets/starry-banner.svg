@@ -58,8 +58,8 @@
     .lit-scene,.scene-characters,.scene-copy,.scene-label,.torch-on{opacity:1}
     .orb-flight,.orb-trail,.star-touch,.star-wave{display:none}
   }
-  .community-cta {transform:translate(834px,466px)}
-  @media(max-width:600px){.community-cta{transform:translate(671px,443px) scale(1.5)}}
+  .community-cta {transform:translate(941px,494px) scale(.72)}
+  @media(max-width:600px){.community-cta{transform:translate(850px,478px)}}
 </style>
 <g clip-path="url(#round)">
   <rect width="1200" height="560" fill="#030812"/>
