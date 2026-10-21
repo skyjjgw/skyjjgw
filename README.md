@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://skymoni.com/creators">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact.svg" width="100%" alt="Skymoni Community — Good ideas grow together. Ask questions. Share what you make. Join the community." />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-storefront-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-storefront.svg" width="100%" alt="Skymoni Community — Good ideas grow together. Ask questions. Share what you make. Join the community." />
     </picture>
   </a>
 </p>
@@ -25,8 +25,6 @@
   <a href="https://github.com/skyjjgw/AI-practice-log">Build log</a> &nbsp; · &nbsp;
   <a href="mailto:skyjjgw@gmail.com">skyjjgw@gmail.com</a>
 </p>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake-dark.svg" />
