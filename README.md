@@ -11,11 +11,10 @@
   <a href="https://skyjjgw.com">Website</a> &nbsp; · &nbsp;
   <a href="https://github.com/skyjjgw?tab=repositories">Projects</a> &nbsp; · &nbsp;
   <a href="https://github.com/skyjjgw/AI-practice-log">Build log</a> &nbsp; · &nbsp;
-  <a href="mailto:skyjjgw@gmail.com">skyjjgw@gmail.com</a>
-</p>
-
+  <a href="mailto:skyjjgw@gmail.com">skyjjgw@gmail.com</a><br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
   <img width="100%" alt="A snake follows my GitHub contribution trail, eating the contribution squares along the way." src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
 </picture>
+</p>
