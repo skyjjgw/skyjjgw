@@ -7,51 +7,29 @@
 </p>
 
 <p align="center">
-  <a href="https://skyjjgw.com"><b>Website ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/skyjjgw?tab=repositories">Projects ↗</a> &nbsp; / &nbsp;
-  <a href="https://skymoni.com/creators">Community ↗</a> &nbsp; / &nbsp;
-  <a href="https://github.com/skyjjgw/AI-practice-log">Build log ↗</a> &nbsp; / &nbsp;
-  <a href="mailto:skyjjgw@gmail.com">Email</a>
+  <b>A developer. Always curious, always building.</b>
 </p>
 
-<br />
+<p align="center">
+  <a href="https://skyjjgw.com">Website</a> &nbsp; · &nbsp;
+  <a href="https://github.com/skyjjgw?tab=repositories">Projects</a> &nbsp; · &nbsp;
+  <a href="https://github.com/skyjjgw/AI-practice-log">Build log</a> &nbsp; · &nbsp;
+  <a href="mailto:skyjjgw@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <a href="https://skymoni.com/creators">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-cloud-invitation-mobile-en.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/skymoni-cloud-invitation-en.svg" width="100%" alt="An invitation to Skymoni: your ideas belong here. Talk AI, share your work and find new inspiration. Join our community for free." />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact.svg" width="100%" alt="Skymoni Community — Good ideas grow together. Ask questions. Share what you make. Join the community." />
     </picture>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skymoni.com/creators"><b>☁ Meet us in the clouds ↗</b></a><br />
-  <sub>A little place for big ideas. Come as you are, create what you love.</sub>
-</p>
-
-<br />
-
-<p align="center">
-  <b>I'm SKYJJGW, a developer.</b><br />
-  I build useful tools, explore new ideas, and keep learning through what I make.
-</p>
-
-<br />
-
-## One contribution at a time
+<p align="center"><sub>THE BUILDING CONTINUES</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
   <img width="100%" alt="A snake follows my GitHub contribution trail, eating the contribution squares along the way." src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake.svg" />
 </picture>
-
-<p align="center"><sub>Small steps. Useful things. A trail worth keeping.</sub></p>
-
-<br />
-
-<p align="center">
-  <b>Stay curious. Make something useful.</b><br />
-  <sub><a href="https://skyjjgw.com">skyjjgw.com</a> &nbsp; · &nbsp; <a href="https://skymoni.com/creators">skymoni community</a> &nbsp; · &nbsp; <a href="mailto:skyjjgw@gmail.com">say hello</a></sub>
-</p>
