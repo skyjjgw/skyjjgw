@@ -1,71 +1,72 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Skymoni Community — Your ideas belong here.</title>
-  <desc id="desc">An invitation to a little cloud shop. Ask anything, share what you make, and join the Skymoni community.</desc>
+  <desc id="desc">An invitation to a little cloud shop under a starry night sky. Ask anything, share what you make, and join the Skymoni community.</desc>
   <defs>
-  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e5f0f6"/><stop offset="1" stop-color="#f3f7f7"/></linearGradient>
-  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf4f9"/><stop offset="1" stop-color="#fffdf7"/></linearGradient>
-  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6b93c8"/><stop offset="1" stop-color="#557db3"/></linearGradient>
-  <pattern id="paper" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r=".6" fill="#c8bba3" opacity=".12"/></pattern>
-  <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#91aac0" flood-opacity=".13"/></filter>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1626"/><stop offset="1" stop-color="#111f33"/></linearGradient>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#16283f"/><stop offset="1" stop-color="#0e1b2e"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d334d"/><stop offset="1" stop-color="#101b2d"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#337fc7"/><stop offset="1" stop-color="#566cd1"/></linearGradient>
+  <pattern id="paper" width="64" height="64" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r=".6" fill="#92aed2" opacity=".18"/></pattern>
+  <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#050b16" flood-opacity=".35"/></filter>
   <g id="cloud">
-      <path d="M-65 26C-98 25-100-16-70-22-72-58-23-73-4-41 22-67 60-43 58-18 91-21 98 23 65 26Z" fill="#fffefb" stroke="#a6c6df" stroke-width="2.5"/>
-      <path d="M-26-9v6m45-6v6" stroke="#4e6e93" stroke-width="4.5" stroke-linecap="round"/>
-      <path d="M-8 6q8 10 16 0" stroke="#4e6e93" stroke-width="2.5" stroke-linecap="round"/>
-      <ellipse cx="-39" cy="7" rx="10" ry="5" fill="#f4d5d7"/><ellipse cx="38" cy="7" rx="10" ry="5" fill="#f4d5d7"/>
+      <path d="M-65 26C-98 25-100-16-70-22-72-58-23-73-4-41 22-67 60-43 58-18 91-21 98 23 65 26Z" fill="#dceafa" stroke="#85a8c8" stroke-width="2.5"/>
+      <path d="M-26-9v6m45-6v6" stroke="#355575" stroke-width="4.5" stroke-linecap="round"/>
+      <path d="M-8 6q8 10 16 0" stroke="#355575" stroke-width="2.5" stroke-linecap="round"/>
+      <ellipse cx="-39" cy="7" rx="10" ry="5" fill="#cfaebf"/><ellipse cx="38" cy="7" rx="10" ry="5" fill="#cfaebf"/>
     </g>
-  <g id="star"><path d="m0-14 4.5 9.5 10.5 1.7-7.5 7.5 1.7 10.5L0 10l-9.2 5.2 1.7-10.5-7.5-7.5 10.5-1.7Z" fill="#f3d892" stroke="#d9bc75" stroke-width="1.5" stroke-linejoin="round"/></g>
+  <g id="star"><path d="m0-14 4.5 9.5 10.5 1.7-7.5 7.5 1.7 10.5L0 10l-9.2 5.2 1.7-10.5-7.5-7.5 10.5-1.7Z" fill="#c6c5af" stroke="#8e9aa3" stroke-width="1.5" stroke-linejoin="round"/></g>
   <g id="shop-scene">
     <rect x="36" y="28" width="470" height="384" rx="220" fill="url(#sky)"/>
-    <circle cx="418" cy="91" r="36" fill="#f6e8bd" opacity=".8"/>
-    <path d="M64 114h61c17 0 19-25 1-28-3-20-32-24-40-5-17-5-30 11-22 21-10 2-12 12 0 12Z" fill="#fffdf8" opacity=".85"/>
-    <ellipse cx="270" cy="385" rx="185" ry="13" fill="#b6cad7" opacity=".22"/>
-    <path d="M200 120v23m138-23v23" stroke="#91aec3" stroke-width="3"/>
-    <rect x="174" y="70" width="192" height="54" rx="13" fill="#fffdf7" stroke="#9db8cc" stroke-width="2" filter="url(#soft-shadow)"/>
-    <text x="270" y="107" text-anchor="middle" fill="#395976" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="-1">skymoni</text>
-    <rect x="100" y="157" width="340" height="208" rx="12" fill="#fffdf7" stroke="#91aec3" stroke-width="2" filter="url(#soft-shadow)"/>
-    <rect x="116" y="183" width="308" height="132" rx="7" fill="url(#glass)" stroke="#d0e0e9" stroke-width="1.5"/>
-    <path d="M315 185v128" stroke="#c8dce8" stroke-width="2"/>
-    <path d="m398 189-57 99m77-99-57 99" stroke="#fff" stroke-width="9" opacity=".65"/>
+    <circle cx="418" cy="91" r="36" fill="#b9c7d9" opacity=".8"/>
+    <path d="M64 114h61c17 0 19-25 1-28-3-20-32-24-40-5-17-5-30 11-22 21-10 2-12 12 0 12Z" fill="#21364d" opacity=".85"/>
+    <ellipse cx="270" cy="385" rx="185" ry="13" fill="#050a13" opacity=".22"/>
+    <path d="M200 120v23m138-23v23" stroke="#6286ac" stroke-width="3"/>
+    <rect x="174" y="70" width="192" height="54" rx="13" fill="#101b2d" stroke="#6286ac" stroke-width="2" filter="url(#soft-shadow)"/>
+    <text x="270" y="107" text-anchor="middle" fill="#e9f1fc" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="-1">skymoni</text>
+    <rect x="100" y="157" width="340" height="208" rx="12" fill="#101b2d" stroke="#6286ac" stroke-width="2" filter="url(#soft-shadow)"/>
+    <rect x="116" y="183" width="308" height="132" rx="7" fill="url(#glass)" stroke="#344c69" stroke-width="1.5"/>
+    <path d="M315 185v128" stroke="#3d5b79" stroke-width="2"/>
+    <path d="m398 189-57 99m77-99-57 99" stroke="#789ec8" stroke-width="9" opacity=".18"/>
     <g transform="translate(218 288) scale(.94)">
       <use href="#cloud"/>
-      <path d="M65 6q23-8 20-26" stroke="#a6c6df" stroke-width="8" stroke-linecap="round"/>
-      <path d="m93-32 4-6m3 18h7" stroke="#b4c9db" stroke-width="2" stroke-linecap="round"/>
+      <path d="M65 6q23-8 20-26" stroke="#85a8c8" stroke-width="8" stroke-linecap="round"/>
+      <path d="m93-32 4-6m3 18h7" stroke="#82a1c2" stroke-width="2" stroke-linecap="round"/>
     </g>
     <g transform="translate(340 218) rotate(6 32 40)">
-      <rect width="64" height="81" rx="6" fill="#fffdf7" stroke="#aac2d3" stroke-width="1.6"/>
-      <rect x="8" y="9" width="48" height="37" rx="3" fill="#dceaf5"/>
-      <circle cx="42" cy="21" r="6" fill="#f2d68d"/>
-      <path d="m12 39 13-15 12 13 9-9 9 11" stroke="#8faccc" stroke-width="2" stroke-linejoin="round"/>
-      <path d="M11 59h27m-27 8h40" stroke="#b2c7d8" stroke-width="2.5" stroke-linecap="round"/>
+      <rect width="64" height="81" rx="6" fill="#101b2d" stroke="#5f81a6" stroke-width="1.6"/>
+      <rect x="8" y="9" width="48" height="37" rx="3" fill="#304b68"/>
+      <circle cx="42" cy="21" r="6" fill="#c7b787"/>
+      <path d="m12 39 13-15 12 13 9-9 9 11" stroke="#8eaccb" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M11 59h27m-27 8h40" stroke="#7a98b8" stroke-width="2.5" stroke-linecap="round"/>
     </g>
-    <rect x="88" y="312" width="364" height="20" rx="5" fill="#d8e8f2" stroke="#91aec3" stroke-width="1.8"/>
-    <text x="270" y="352" text-anchor="middle" fill="#8299ac" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.6">OPEN FOR IDEAS</text>
-    <path d="M108 366v10m324-10v10" stroke="#91aec3" stroke-width="3" stroke-linecap="round"/>
-    <path d="M94 139h44v36a22 16 0 0 1-44 0Z" fill="#d7e9f3" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M138 139h44v36a22 16 0 0 1-44 0Z" fill="#f9e9bf" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M182 139h44v36a22 16 0 0 1-44 0Z" fill="#d7e9f3" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M226 139h44v36a22 16 0 0 1-44 0Z" fill="#f9e9bf" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M270 139h44v36a22 16 0 0 1-44 0Z" fill="#d7e9f3" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M314 139h44v36a22 16 0 0 1-44 0Z" fill="#f9e9bf" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M358 139h44v36a22 16 0 0 1-44 0Z" fill="#d7e9f3" stroke="#91aec3" stroke-width="1.5"/>
-<path d="M402 139h44v36a22 16 0 0 1-44 0Z" fill="#f9e9bf" stroke="#91aec3" stroke-width="1.5"/>
-    <path d="M94 138h352" stroke="#89a8bf" stroke-width="3" stroke-linecap="round"/>
+    <rect x="88" y="312" width="364" height="20" rx="5" fill="#283f5c" stroke="#6286ac" stroke-width="1.8"/>
+    <text x="270" y="352" text-anchor="middle" fill="#90aac7" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.6">OPEN FOR IDEAS</text>
+    <path d="M108 366v10m324-10v10" stroke="#6286ac" stroke-width="3" stroke-linecap="round"/>
+    <path d="M94 139h44v36a22 16 0 0 1-44 0Z" fill="#283f5c" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M138 139h44v36a22 16 0 0 1-44 0Z" fill="#384657" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M182 139h44v36a22 16 0 0 1-44 0Z" fill="#283f5c" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M226 139h44v36a22 16 0 0 1-44 0Z" fill="#384657" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M270 139h44v36a22 16 0 0 1-44 0Z" fill="#283f5c" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M314 139h44v36a22 16 0 0 1-44 0Z" fill="#384657" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M358 139h44v36a22 16 0 0 1-44 0Z" fill="#283f5c" stroke="#6286ac" stroke-width="1.5"/>
+<path d="M402 139h44v36a22 16 0 0 1-44 0Z" fill="#384657" stroke="#6286ac" stroke-width="1.5"/>
+    <path d="M94 138h352" stroke="#6286ac" stroke-width="3" stroke-linecap="round"/>
     <g transform="translate(66 350)">
-      <path d="M5 5C-15-4-18-22-13-29 4-25 7-11 5 5M7 2c1-18 14-26 24-25 1 14-8 25-24 25" fill="#bad0c1" stroke="#8eae9c" stroke-width="1.5"/>
-      <path d="M-7 3h29l-4 29H-3Z" fill="#ead9bb" stroke="#bba98a" stroke-width="1.5"/>
+      <path d="M5 5C-15-4-18-22-13-29 4-25 7-11 5 5M7 2c1-18 14-26 24-25 1 14-8 25-24 25" fill="#5b7f79" stroke="#3f6468" stroke-width="1.5"/>
+      <path d="M-7 3h29l-4 29H-3Z" fill="#6f6e6e" stroke="#85929c" stroke-width="1.5"/>
     </g>
     <use href="#star" transform="translate(466 220) scale(.65)"/>
-    <circle cx="76" cy="250" r="3" fill="#b8cedf"/>
-    <path d="M453 50v10m-5-5h10" stroke="#a4bed1" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="76" cy="250" r="3" fill="#6487ae"/>
+    <path d="M453 50v10m-5-5h10" stroke="#759bc4" stroke-width="2" stroke-linecap="round"/>
   </g>
 </defs>
-  <rect x="1" y="1" width="1198" height="198" rx="22" fill="#fffdf7" stroke="#dbe4e9" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="198" rx="22" fill="url(#night)" stroke="#2b405c" stroke-width="2"/>
   <rect x="2" y="2" width="1196" height="196" rx="21" fill="url(#paper)"/>
   <use href="#shop-scene" transform="translate(25 3) scale(.44)"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-    <text x="300" y="42" fill="#71899e" font-size="16" font-weight="600" letter-spacing="2.6">SKYMONI COMMUNITY</text>
-    <text x="297" y="99" font-family="Georgia,'Times New Roman',serif" font-size="50" font-weight="700" letter-spacing="-1.6" fill="#324d67">Your ideas <tspan fill="#5c83b6">belong here.</tspan></text>
-    <text x="300" y="149" fill="#6d8194" font-size="23">Ask anything. Share what you make.</text>
+    <text x="300" y="42" fill="#91a9c7" font-size="16" font-weight="600" letter-spacing="2.6">SKYMONI COMMUNITY</text>
+    <text x="297" y="99" font-family="Georgia,'Times New Roman',serif" font-size="50" font-weight="700" letter-spacing="-1.6" fill="#e9f1fc">Your ideas <tspan fill="#8fb8ef">belong here.</tspan></text>
+    <text x="300" y="149" fill="#a8b8ce" font-size="23">Ask anything. Share what you make.</text>
     <rect x="866" y="117" width="286" height="48" rx="14" fill="url(#blue)"/>
     <text x="887" y="149" fill="#fff" font-size="22" font-weight="600">Join the community</text>
     <path d="M1110 149l14-14m-13 0h13v13" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
