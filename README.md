@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://skymoni.com/creators"><img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/11a5dbc099627f3e736bf726c4ccd56211292554/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Join the Skymoni community. Ask anything and share what you make." width="100%" /></a>
+  <a href="https://skymoni.com/creators"><img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/4ea9ed674756617939a2b030eea76b0d98a352bd/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Join the Skymoni community. Ask anything and share what you make." width="100%" /></a>
 </p>
 
 <p align="center">
