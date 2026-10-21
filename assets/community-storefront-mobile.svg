@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Skymoni Community — Your ideas belong here.</title>
   <desc id="desc">A little cloud shop welcomes you. Ask anything, share what you make, and join the community.</desc>
   <defs>
@@ -59,18 +59,18 @@
     <path d="M453 50v10m-5-5h10" stroke="#a4bed1" stroke-width="2" stroke-linecap="round"/>
   </g>
 </defs>
-  <rect x="1" y="1" width="598" height="288" rx="20" fill="#fffdf7" stroke="#dbe4e9" stroke-width="2"/>
-  <rect x="2" y="2" width="596" height="286" rx="19" fill="url(#paper)"/>
-  <use href="#shop-scene" transform="translate(-5 35) scale(.5)"/>
+  <rect x="1" y="1" width="598" height="238" rx="20" fill="#fffdf7" stroke="#dbe4e9" stroke-width="2"/>
+  <rect x="2" y="2" width="596" height="236" rx="19" fill="url(#paper)"/>
+  <use href="#shop-scene" transform="translate(0 22) scale(.42)"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-    <text x="268" y="54" fill="#71899e" font-size="13" font-weight="600" letter-spacing="1.5">SKYMONI COMMUNITY</text>
-    <g font-family="Georgia,'Times New Roman',serif" font-size="36" font-weight="700" letter-spacing="-.8">
-      <text x="266" y="104" fill="#324d67">Your ideas</text>
-      <text x="266" y="147" fill="#5c83b6">belong here.</text>
+    <text x="236" y="42" fill="#71899e" font-size="13" font-weight="600" letter-spacing="1.5">SKYMONI COMMUNITY</text>
+    <g font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" letter-spacing="-.8">
+      <text x="234" y="84" fill="#324d67">Your ideas</text>
+      <text x="234" y="124" fill="#5c83b6">belong here.</text>
     </g>
-    <text x="268" y="184" fill="#6d8194" font-size="21">Ask. Share. Create.</text>
-    <rect x="268" y="213" width="296" height="48" rx="14" fill="url(#blue)"/>
-    <text x="291" y="244" fill="#fff" font-size="21" font-weight="600">Join the community</text>
-    <path d="M523 244l14-14m-13 0h13v13" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="236" y="160" fill="#6d8194" font-size="21">Ask. Share. Create.</text>
+    <rect x="236" y="182" width="320" height="42" rx="14" fill="url(#blue)"/>
+    <text x="259" y="210" fill="#fff" font-size="21" font-weight="600">Join the community</text>
+    <path d="M518 210l14-14m-13 0h13v13" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 </svg>
