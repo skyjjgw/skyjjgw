@@ -12,10 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/intro-typing.svg" width="560" alt="Hi, I'm SKYJJGW. Turning ideas into tools you can use." />
-</p>
-
-<p align="center">
+  <img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/intro-typing.svg" width="560" alt="Hi, I'm SKYJJGW. Turning ideas into tools you can use." /><br />
   <b>A developer. Always curious, always building.</b>
 </p>
 
