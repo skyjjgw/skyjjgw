@@ -2,7 +2,7 @@
   <a href="https://skymoni.com/creators">
     <picture>
       <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/665ab44931558cd35faf12dfc247970cdfc57138/assets/community-storefront-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/665ab44931558cd35faf12dfc247970cdfc57138/assets/community-storefront.svg" width="100%" alt="Skymoni Community — Good ideas grow together. Ask questions. Share what you make. Join the community." />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/665ab44931558cd35faf12dfc247970cdfc57138/assets/community-storefront.svg" width="100%" alt="Skymoni Community — Your ideas belong here. Ask anything. Share what you make. Join the community." />
     </picture>
   </a>
 </p>
