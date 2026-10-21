@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="348" viewBox="0 0 1200 348" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Skymoni Community — Good ideas grow together.</title>
-  <desc id="desc">A welcoming community storefront with a blue and cream striped awning and a friendly cloud in the window. Ask questions. Share what you make. Join the community.</desc>
-  
+  <desc id="desc">A community shop window with a striped awning, a friendly cloud behind the counter, and an invitation to come inside. Ask questions and share what you make.</desc>
   <defs>
     <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9f4fa"/><stop offset="1" stop-color="#f8fbfc"/></linearGradient>
     <linearGradient id="button" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6b94cf"/><stop offset="1" stop-color="#557fb9"/></linearGradient>
@@ -13,39 +12,46 @@
     </g>
     <g id="star"><path d="m0-14 4.5 9.5 10.5 1.7-7.5 7.5 1.7 10.5L0 10l-9.2 5.2 1.7-10.5-7.5-7.5 10.5-1.7Z" fill="#f3d892" stroke="#d9bc75" stroke-width="1.5" stroke-linejoin="round"/></g>
   </defs>
-  <rect x="1" y="1" width="1198" height="334" rx="20" fill="#fbf7ed" stroke="#b7cbd9" stroke-width="2"/>
-  <rect x="18" y="38" width="1164" height="280" rx="9" fill="#fffdf8" stroke="#c7d9e4" stroke-width="2"/>
-  <rect x="838" y="85" width="310" height="157" rx="9" fill="url(#glass)" stroke="#b9d1e0" stroke-width="2"/>
-  <path d="m1053 86-92 156m129-156-92 156" stroke="#fff" stroke-width="13" opacity=".4"/>
-  <path d="M993 85v157" stroke="#d4e4ed" stroke-width="2"/>
-  <path d="M821 85v157" stroke="#d6e2e9" stroke-width="2"/>
-  <path d="M1097 86v24" stroke="#b1c7d7" stroke-width="2"/>
-  <use href="#star" transform="translate(1097 122) scale(.8)"/>
-  <g transform="translate(989 211)"><use href="#cloud"/><path d="M67 6q23-8 22-26" stroke="#a6c6df" stroke-width="8" stroke-linecap="round"/><path d="m97-33 4-6m3 18h7" stroke="#b4c9db" stroke-width="2" stroke-linecap="round"/></g>
-  <rect x="825" y="235" width="336" height="13" rx="4" fill="#dcebf3" stroke="#a7c2d4" stroke-width="1.5"/>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-    <text x="48" y="128" fill="#6584a3" font-size="16" font-weight="600" letter-spacing="3">SKYMONI COMMUNITY</text>
-    <text x="48" y="186" fill="#304b6b" font-size="43" font-weight="600" letter-spacing="-1">Good ideas grow together.</text>
-    <text x="48" y="226" fill="#687e94" font-size="23">Ask questions. Share what you make.</text>
-    <rect x="845" y="260" width="296" height="48" rx="24" fill="url(#button)"/>
-    <text x="868" y="291" fill="#fff" font-size="22" font-weight="600">Join the community</text>
-    <path d="M1101 291l14-14m-13 0h13v13" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="shop-frame"><rect x="1" y="1" width="1198" height="346" rx="18"/></clipPath></defs>
+  <g clip-path="url(#shop-frame)">
+    <path d="M0 0h1200v348H0Z" fill="#fffdf7"/>
+    <path d="M800 30h400v236H800Z" fill="url(#glass)"/>
+    <path d="m1080 47-126 219m173-219-126 219" stroke="#fff" stroke-width="19" opacity=".55"/>
+    <path d="M780 76v166" stroke="#d5e3eb" stroke-width="2"/>
+    <path d="M1092 47v50" stroke="#b1c7d7" stroke-width="2"/>
+    <use href="#star" transform="translate(1092 113) scale(.85)"/>
+    <g transform="translate(976 233) scale(1.25)">
+      <use href="#cloud"/>
+      <path d="M67 6q23-8 22-26" stroke="#a6c6df" stroke-width="8" stroke-linecap="round"/>
+      <path d="m97-33 4-6m3 18h7" stroke="#b4c9db" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <path d="M0 266h1200v82H0Z" fill="#e8f1f6"/>
+    <path d="M0 266h1200" stroke="#b8cedd" stroke-width="2"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="48" y="105" fill="#6584a3" font-size="17" font-weight="600" letter-spacing="2.6">SKYMONI COMMUNITY</text>
+      <text x="48" y="167" fill="#304b6b" font-size="46" font-weight="600" letter-spacing="-1">Good ideas grow together.</text>
+      <text x="48" y="209" fill="#687e94" font-size="24">Ask questions. Share what you make.</text>
+      <text x="48" y="315" fill="#69859f" font-size="21">skymoni.com/creators</text>
+      <rect x="844" y="283" width="308" height="48" rx="24" fill="url(#button)"/>
+      <text x="869" y="314" fill="#fff" font-size="23" font-weight="600">Join the community</text>
+      <path d="M1108 314l14-14m-13 0h13v13" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M0 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M75 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M150 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M225 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M300 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M375 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M450 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M525 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M600 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M675 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M750 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M825 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M900 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M975 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M1050 0h75v28a37.5 18 0 0 1-75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
+<path d="M1125 0h75v28a37.5 18 0 0 1-75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
   </g>
-  <path d="M18.00 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M90.75 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M163.50 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M236.25 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M309.00 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M381.75 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M454.50 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M527.25 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M600.00 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M672.75 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M745.50 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M818.25 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M891.00 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M963.75 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M1036.50 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#d9ecf6" stroke="#a4bfd0" stroke-width="1.5"/>
-<path d="M1109.25 18h72.75v25a36.38 19 0 0 1-72.75 0Z" fill="#faedc9" stroke="#a4bfd0" stroke-width="1.5"/>
-  <path d="M18 17h1164" stroke="#8eaec6" stroke-width="4" stroke-linecap="round"/>
+  <rect x="1" y="1" width="1198" height="346" rx="18" stroke="#b4cad9" stroke-width="2"/>
 </svg>
