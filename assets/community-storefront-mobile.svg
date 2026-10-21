@@ -19,12 +19,12 @@
   <path d="m517 89-97 185m129-185-97 185" stroke="#fff" stroke-width="9" opacity=".4"/>
   <path d="M537 89v34" stroke="#b1c7d7" stroke-width="2"/>
   <use href="#star" transform="translate(537 136) scale(.65)"/>
-  <use href="#cloud" transform="translate(486 258) scale(.76)"/>
+  <use href="#cloud" transform="translate(486 258) scale(.85)"/>
   <rect x="397" y="281" width="179" height="13" rx="4" fill="#dcebf3" stroke="#a7c2d4" stroke-width="1.5"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
     <text x="28" y="98" fill="#6584a3" font-size="15" font-weight="600" letter-spacing="2.2">SKYMONI COMMUNITY</text>
-    <text x="28" y="151" fill="#304b6b" font-size="38" font-weight="600" letter-spacing="-.8">Good ideas grow</text>
-    <text x="28" y="195" fill="#304b6b" font-size="38" font-weight="600" letter-spacing="-.8">together.</text>
+    <text x="28" y="151" fill="#304b6b" font-size="38" font-weight="600" letter-spacing="-.8">Good ideas</text>
+    <text x="28" y="195" fill="#304b6b" font-size="38" font-weight="600" letter-spacing="-.8">grow together.</text>
     <text x="28" y="234" fill="#687e94" font-size="22">Ask. Share. Create.</text>
     <rect x="28" y="256" width="281" height="48" rx="24" fill="url(#button)"/>
     <text x="50" y="287" fill="#fff" font-size="21" font-weight="600">Join the community</text>
