@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://skymoni.com/creators">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/c9bb8a21a5b0309a7975af48191ff23a41a3faf1/assets/community-storefront-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/c9bb8a21a5b0309a7975af48191ff23a41a3faf1/assets/community-storefront.svg" width="100%" alt="Skymoni Community — Your ideas belong here. Ask anything. Share what you make. Join the community." />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/58fd978fdbc77908196322a1865c79552888aad9/assets/community-storefront-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/58fd978fdbc77908196322a1865c79552888aad9/assets/community-storefront.svg" width="100%" alt="Skymoni Community — Your ideas belong here. Ask anything. Share what you make. Join the community." />
     </picture>
   </a>
 </p>
