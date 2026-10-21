@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="https://skymoni.com/creators">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact.svg" width="100%" alt="Skymoni Community — Good ideas grow together. Ask questions. Share what you make. Join the community." />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://skyjjgw.com"><img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
 </p>
 
@@ -17,14 +26,7 @@
   <a href="mailto:skyjjgw@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://skymoni.com/creators">
-    <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/community-invite-compact.svg" width="100%" alt="Skymoni Community — Good ideas grow together. Ask questions. Share what you make. Join the community." />
-    </picture>
-  </a>
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/contribution-snake-dark.svg" />
