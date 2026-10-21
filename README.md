@@ -80,21 +80,15 @@
 
 ## My toolkit
 
-<p>
-  <b>AI &amp; knowledge</b><br />
-  <sub>LangChain &nbsp; · &nbsp; LangGraph &nbsp; · &nbsp; RAG &nbsp; · &nbsp; Elasticsearch &nbsp; · &nbsp; Dify &nbsp; · &nbsp; OCR / VLM</sub>
-</p>
-<p>
-  <b>Build &amp; ship</b><br />
-  <sub>Python &nbsp; · &nbsp; FastAPI &nbsp; · &nbsp; SQLite &nbsp; · &nbsp; REST APIs &nbsp; · &nbsp; Vue 3 &nbsp; · &nbsp; TypeScript &nbsp; · &nbsp; Electron &nbsp; · &nbsp; Git &nbsp; · &nbsp; Docker</sub>
-</p>
-<p>
-  <b>Currently learning</b><br />
-  <sub>Java &nbsp; · &nbsp; Spring Boot</sub>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/toolkit-workbench-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/toolkit-workbench-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/toolkit-workbench-dark.svg" />
+  <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/main/assets/toolkit-workbench.svg" width="100%" alt="My toolkit. AI and knowledge: LangChain, LangGraph, RAG, Elasticsearch, Dify, OCR / VLM. Build and ship: Python, TypeScript, Vue 3, FastAPI, SQLite, REST APIs, Electron, Git, Docker. Currently learning Java and Spring Boot." />
+</picture>
 
 <details>
-  <summary><b>A note on how I work</b></summary>
+  <summary><b>Behind the build · how I work</b></summary>
   <br />
   <p><b>Find a problem → Build a minimal version → Validate → Iterate</b></p>
   <p>I use AI coding tools to help with development while learning to describe requirements clearly, read code, and verify results. These projects include both more developed work and ongoing experiments; I aim to document what each can do and where its limits are.</p>

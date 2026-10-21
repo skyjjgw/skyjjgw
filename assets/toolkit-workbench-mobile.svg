@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="916" viewBox="0 0 480 916" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">My toolkit — ideas in, useful things out.</title>
+<desc id="desc">AI and knowledge: LangChain, LangGraph, RAG, Elasticsearch, Dify, OCR and VLM. Build and ship: Python, TypeScript, Vue 3, FastAPI, SQLite, REST APIs, Electron, Git and Docker. Currently learning Java and Spring Boot. Learning through real projects.</desc>
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".8" fill="#CEDCEC" opacity=".55"/></pattern>
+  <linearGradient id="learning" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FCF6E9"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+</defs>
+<rect x=".75" y=".75" width="478.5" height="914.5" rx="24" fill="#F8FAFD" stroke="#DCE6F0" stroke-width="1.5"/>
+<rect x="306" y="1" width="150" height="80" fill="url(#dots)"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+
+<text x="24" y="38" fill="#527DB6" font-size="12" font-weight="650" letter-spacing="2">LEARNING THROUGH BUILDING</text>
+<text x="24" y="73" fill="#243A55" font-size="25" font-weight="650">Ideas in. Useful things out.</text>
+<rect x="20" y="103" width="440" height="280" rx="18" fill="#809BBA" opacity=".035"/>
+<rect x="20" y="100" width="440" height="280" rx="18" fill="#FFFFFF" stroke="#DCE6F0"/>
+<rect x="44" y="124" width="48" height="48" rx="14" fill="#EDF4FC"/>
+<g transform="translate(53 133)" stroke="#527DB6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 21 15 6l10 15M5 21h20M15 6v19"/><circle cx="5" cy="21" r="3.2" fill="#EDF4FC"/><circle cx="15" cy="6" r="3.2" fill="#EDF4FC"/><circle cx="25" cy="21" r="3.2" fill="#EDF4FC"/></g>
+<text x="408" y="147" fill="#637892" font-size="13" font-weight="500" letter-spacing="1">01</text>
+<text x="108" y="149" fill="#243A55" font-size="25" font-weight="650">AI &amp; knowledge</text>
+<text x="44" y="208" fill="#637892" font-size="19" font-weight="400">Turning information into context.</text>
+<rect x="44" y="232" width="128" height="36" rx="9" fill="#F3F6FA"/>
+<text x="58" y="256" fill="#3D5675" font-size="19" font-weight="500">LangChain</text>
+<rect x="182" y="232" width="132" height="36" rx="9" fill="#F3F6FA"/>
+<text x="196" y="256" fill="#3D5675" font-size="19" font-weight="500">LangGraph</text>
+<rect x="324" y="232" width="70" height="36" rx="9" fill="#F3F6FA"/>
+<text x="338" y="256" fill="#3D5675" font-size="19" font-weight="500">RAG</text>
+<rect x="44" y="278" width="158" height="36" rx="9" fill="#F3F6FA"/>
+<text x="58" y="302" fill="#3D5675" font-size="19" font-weight="500">Elasticsearch</text>
+<rect x="212" y="278" width="70" height="36" rx="9" fill="#F3F6FA"/>
+<text x="226" y="302" fill="#3D5675" font-size="19" font-weight="500">Dify</text>
+<rect x="292" y="278" width="140" height="36" rx="9" fill="#F3F6FA"/>
+<text x="306" y="302" fill="#3D5675" font-size="19" font-weight="500">OCR / VLM</text>
+<path d="M52 349H396" stroke="#CEDCEC" stroke-width="1.5" stroke-dasharray="3 5"/>
+<circle cx="52" cy="349" r="3.5" fill="#527DB6"/>
+<text x="64" y="354" fill="#637892" font-size="16" font-weight="400">retrieve</text>
+<circle cx="188" cy="349" r="3.5" fill="#527DB6"/>
+<text x="200" y="354" fill="#637892" font-size="16" font-weight="400">reason</text>
+<circle cx="324" cy="349" r="3.5" fill="#527DB6"/>
+<text x="336" y="354" fill="#637892" font-size="16" font-weight="400">respond</text>
+<rect x="20" y="403" width="440" height="280" rx="18" fill="#809BBA" opacity=".035"/>
+<rect x="20" y="400" width="440" height="280" rx="18" fill="#FFFFFF" stroke="#DCE6F0"/>
+<rect x="44" y="424" width="48" height="48" rx="14" fill="#EDF4FC"/>
+<g transform="translate(54 435)" stroke="#527DB6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="26" height="24" rx="4"/><path d="m7 8 5 5-5 5m9 0h5"/></g>
+<text x="408" y="447" fill="#637892" font-size="13" font-weight="500" letter-spacing="1">02</text>
+<text x="108" y="449" fill="#243A55" font-size="25" font-weight="650">Build &amp; ship</text>
+<text x="44" y="508" fill="#637892" font-size="19" font-weight="400">From a small prototype to a useful tool.</text>
+<rect x="44" y="532" width="100" height="36" rx="9" fill="#F3F6FA"/>
+<text x="58" y="556" fill="#3D5675" font-size="19" font-weight="500">Python</text>
+<rect x="154" y="532" width="134" height="36" rx="9" fill="#F3F6FA"/>
+<text x="168" y="556" fill="#3D5675" font-size="19" font-weight="500">TypeScript</text>
+<rect x="298" y="532" width="96" height="36" rx="9" fill="#F3F6FA"/>
+<text x="312" y="556" fill="#3D5675" font-size="19" font-weight="500">Vue 3</text>
+<rect x="44" y="578" width="110" height="36" rx="9" fill="#F3F6FA"/>
+<text x="58" y="602" fill="#3D5675" font-size="19" font-weight="500">FastAPI</text>
+<rect x="164" y="578" width="96" height="36" rx="9" fill="#F3F6FA"/>
+<text x="178" y="602" fill="#3D5675" font-size="19" font-weight="500">SQLite</text>
+<rect x="270" y="578" width="132" height="36" rx="9" fill="#F3F6FA"/>
+<text x="284" y="602" fill="#3D5675" font-size="19" font-weight="500">REST APIs</text>
+<rect x="44" y="624" width="116" height="36" rx="9" fill="#F3F6FA"/>
+<text x="58" y="648" fill="#3D5675" font-size="19" font-weight="500">Electron</text>
+<rect x="170" y="624" width="60" height="36" rx="9" fill="#F3F6FA"/>
+<text x="184" y="648" fill="#3D5675" font-size="19" font-weight="500">Git</text>
+<rect x="240" y="624" width="100" height="36" rx="9" fill="#F3F6FA"/>
+<text x="254" y="648" fill="#3D5675" font-size="19" font-weight="500">Docker</text>
+<rect x="20" y="700" width="440" height="170" rx="18" fill="url(#learning)" stroke="#DCE6F0"/>
+<text x="44" y="729" fill="#B88B39" font-size="11" font-weight="700" letter-spacing="2">NEXT CHAPTER</text>
+<text x="44" y="766" fill="#243A55" font-size="25" font-weight="650">Currently learning</text>
+<rect x="44" y="788" width="82" height="36" rx="9" fill="#F3F6FA"/>
+<text x="58" y="812" fill="#3D5675" font-size="19" font-weight="500">Java</text>
+<rect x="136" y="788" width="142" height="36" rx="9" fill="#F3F6FA"/>
+<text x="150" y="812" fill="#3D5675" font-size="19" font-weight="500">Spring Boot</text>
+<text x="44" y="850" fill="#637892" font-size="16" font-weight="400">Small steps. Real projects.</text>
+<text x="24" y="895" fill="#637892" font-size="14" font-weight="400">A toolbox in progress, shaped by what I build.</text>
+</g></svg>
