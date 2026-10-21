@@ -58,6 +58,8 @@
     .lit-scene,.scene-characters,.scene-copy,.scene-label,.torch-on{opacity:1}
     .orb-flight,.orb-trail,.star-touch,.star-wave{display:none}
   }
+  .community-cta {transform:translate(834px,466px)}
+  @media(max-width:600px){.community-cta{transform:translate(671px,443px) scale(1.5)}}
 </style>
 <g clip-path="url(#round)">
   <rect width="1200" height="560" fill="#030812"/>
@@ -258,5 +260,11 @@
     <g class="star-touch"><circle r="42" fill="url(#orb-light)"/><path d="M0 -18L3 -3L18 0L3 3L0 18L-3 3L-18 0L-3 -3Z" fill="#fff0ba"/></g>
     <g class="star-wave"><circle r="15" fill="none" stroke="#ffe4aa" stroke-width="1.5" vector-effect="non-scaling-stroke"/></g>
   </g>
+</g>
+<!-- One community invitation, kept visible throughout the existing animation. -->
+<g class="community-cta" aria-label="Join the community">
+  <rect width="326" height="58" rx="29" fill="#111d2c" fill-opacity=".96" stroke="#bca16c" stroke-width="1.5"/>
+  <text x="28" y="37" fill="#f3d69d" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Join the community</text>
+  <path d="M278 37l15-15m-15 0h15v15" fill="none" stroke="#f3d69d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </svg>

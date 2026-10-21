@@ -1,14 +1,5 @@
 <p align="center">
-  <a href="https://skymoni.com/creators">
-    <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/skyjjgw/skyjjgw/5bb389d35b0e8f7c47577693fd6009074d2ee349/assets/community-storefront-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/skyjjgw/skyjjgw/5bb389d35b0e8f7c47577693fd6009074d2ee349/assets/community-storefront.svg" width="100%" alt="Skymoni Community — Your ideas belong here. Ask anything. Share what you make. Join the community." />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skyjjgw.com"><img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Visit skyjjgw.com." width="100%" /></a>
+  <a href="https://skymoni.com/creators"><img src="https://github.com/skyjjgw/skyjjgw/raw/af1cf8f17e9edae323be409ab6d8b76c38b7c354/assets/starry-banner.svg" alt="A lantern lights the night: a traveler ignites a torch, a spark rises to a star, and the entire starry sky comes to life. Join the Skymoni community. Ask anything and share what you make." width="100%" /></a>
 </p>
 
 <p align="center">
